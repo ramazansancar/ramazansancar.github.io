@@ -67,7 +67,7 @@ looking for my website? go to
   ([homepage](https://next-js-strapi-blog.vercel.app/)) - Static blog with
   Next.js + Strapi Headless CMS
 - [ramazansancar.github.io (2)](https://github.com/ramazansancar/ramazansancar.github.io)
-  ([homepage](https://leodog896.github.io/)) - auto-generated list of
+  ([homepage](https://ramazansancar.github.io)) - auto-generated list of
   repositories on my account, mainly for catalogue info
 - [recipe-api-only (2)](https://github.com/ramazansancar/recipe-api-only)
   ([homepage](https://recipe-api-loopback.herokuapp.com/)) - API server for
