@@ -146,6 +146,10 @@ looking for my website? go to
 - [AhmetFurkanDEMIR_HepsiTrendTech](https://github.com/ramazansancar/AhmetFurkanDEMIR_HepsiTrendTech)
   ([homepage](https://hepsitrend.tech/)) - The website of the Hepsitrend.tech
   application written in Django.
+- [AidanWelch_OpenTrafficCamMap](https://github.com/ramazansancar/AidanWelch_OpenTrafficCamMap)
+  ([homepage](https://ramazansancar.github.io/AidanWelch_OpenTrafficCamMap/map.html)) -
+  A crowdsourced database of traffic cameras -
+  http://otc.armchairresearch.org/map
 - [alicangunduz_tanismada-sohbet-tikanmasin](https://github.com/ramazansancar/alicangunduz_tanismada-sohbet-tikanmasin)
   ([homepage](https://flort-sorulari.vercel.app/)) - Tanışma sırasında sohbet
   duruyor soracak sorunuz kalmıyorsa sizin için geliştirdiğim çözüm.
@@ -486,9 +490,6 @@ looking for my website? go to
   No description provided.
 - [AdguardTeam-AdguardFilters](https://github.com/ramazansancar/AdguardTeam-AdguardFilters)
   ([homepage](https://adguard.com/)) - AdGuard Content Blocking Filters
-- [AidanWelch_OpenTrafficCamMap](https://github.com/ramazansancar/AidanWelch_OpenTrafficCamMap)
-  ([homepage](http://otc.armchairresearch.org/map)) - A crowdsourced database of
-  traffic cameras
 - [apo-bozdag_sarisite-pro-extension](https://github.com/ramazansancar/apo-bozdag_sarisite-pro-extension) -
   Eğitim amaçlı çalıştığım eklenti
 - [ArdaGnsrn_steam-try-chrome](https://github.com/ramazansancar/ArdaGnsrn_steam-try-chrome)
