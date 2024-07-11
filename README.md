@@ -40,6 +40,8 @@ looking for my website? go to
   No description provided.
 - [AndroidStringXmlTranslator (2)](https://github.com/ramazansancar/AndroidStringXmlTranslator) -
   No description provided.
+- [canli-kameralar (2)](https://github.com/ramazansancar/canli-kameralar) -
+  Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [deneme (2)](https://github.com/ramazansancar/deneme) - deneme
 - [email-templates (2)](https://github.com/ramazansancar/email-templates)
   ([homepage](https://colorlib.com/wp/responsive-html-email-templates/)) - Free
@@ -66,6 +68,7 @@ looking for my website? go to
 - [Next.js-Strapi-Blog-AlexTechNoir (2)](https://github.com/ramazansancar/Next.js-Strapi-Blog-AlexTechNoir)
   ([homepage](https://next-js-strapi-blog.vercel.app/)) - Static blog with
   Next.js + Strapi Headless CMS
+- [notes (2)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
 - [ramazansancar.github.io (2)](https://github.com/ramazansancar/ramazansancar.github.io)
   ([homepage](https://ramazansancar.github.io)) - auto-generated list of
   repositories on my account, mainly for catalogue info
@@ -93,8 +96,6 @@ looking for my website? go to
 - [WebStats (2)](https://github.com/ramazansancar/WebStats) - WebStats Script v2
 - [zumrudu-anka (2)](https://github.com/ramazansancar/zumrudu-anka)
   ([homepage](https://zumrudu-anka.github.io/)) - 🐲 GitHub Profile Readme
-- [canli-kameralar (1)](https://github.com/ramazansancar/canli-kameralar) -
-  Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [CS50x-Fellow-Basvuru-Islemleri (1)](https://github.com/ramazansancar/CS50x-Fellow-Basvuru-Islemleri)
   ([homepage](https://blog.ramazansancar.com.tr/)) - Kodluyoruz CS50x 'de gelen
   başvuruları düzenleme, Toplu mail gönderme gibi işlemleri çok daha kolay
@@ -114,7 +115,6 @@ looking for my website? go to
   Information Repo.
 - [myagizmaktav_simple-cargo-tracker (1)](https://github.com/ramazansancar/myagizmaktav_simple-cargo-tracker) -
   No description provided.
-- [notes (1)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
 - [twitch-moderation-bot-Venfu (1)](https://github.com/ramazansancar/twitch-moderation-bot-Venfu) -
   No description provided.
 - [vercel-test (1)](https://github.com/ramazansancar/vercel-test) - No
