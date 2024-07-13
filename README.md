@@ -132,7 +132,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (193)
+## Forks (194)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -563,6 +563,9 @@ looking for my website? go to
   Türkçe yayın yapan sitelere ait eklentiler
 - [LayeredStudio-whoiser](https://github.com/ramazansancar/LayeredStudio-whoiser) -
   🌍 Easy to use WHOIS info for domains, TLDs and IPs
+- [localsend_localsend](https://github.com/ramazansancar/localsend_localsend)
+  ([homepage](https://localsend.org)) - An open-source cross-platform
+  alternative to AirDrop
 - [MartinsOnuoha-countriesNowAPI](https://github.com/ramazansancar/MartinsOnuoha-countriesNowAPI)
   ([homepage](http://countriesnow.space)) - CountriesNow is an Open source API
   for retrieving geo-information for countries, including their states, cities,
