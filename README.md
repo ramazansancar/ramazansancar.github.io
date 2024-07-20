@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (52)
+## Projects (53)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -123,6 +123,8 @@ looking for my website? go to
   description provided.
 - [cloudflareDnsUpdater (0)](https://github.com/ramazansancar/cloudflareDnsUpdater) -
   No description provided.
+- [grasspow-TelegramStickersDownloadBot (0)](https://github.com/ramazansancar/grasspow-TelegramStickersDownloadBot) -
+  No description provided.
 - [movie-web_docs (0)](https://github.com/ramazansancar/movie-web_docs) - Fork
   from https://git.lonelil.com/movie-web/docs.git
 - [planningListApi (0)](https://github.com/ramazansancar/planningListApi)
@@ -132,7 +134,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (194)
+## Forks (193)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -531,8 +533,6 @@ looking for my website? go to
   startpage / application dashboard) with Docker and service API integrations.
 - [gnojus_wedl-go](https://github.com/ramazansancar/gnojus_wedl-go) - Small
   command line utility to download from https://wetransfer.com
-- [grasspow-TelegramStickersDownloadBot](https://github.com/ramazansancar/grasspow-TelegramStickersDownloadBot) -
-  No description provided.
 - [internetarchive_wayback-machine-webextension](https://github.com/ramazansancar/internetarchive_wayback-machine-webextension) -
   A web browser extension for Chrome, Firefox, Edge, and Safari 14.
 - [iptv-org_iptv](https://github.com/ramazansancar/iptv-org_iptv) - Collection
