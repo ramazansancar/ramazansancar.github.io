@@ -7,12 +7,12 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (53)
+## Projects (52)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [ramazansancar (11)](https://github.com/ramazansancar/ramazansancar) - 🐲
+- [ramazansancar (10)](https://github.com/ramazansancar/ramazansancar) - 🐲
   GitHub Profile Readme
 - [Guvenli-Alisveris (7)](https://github.com/ramazansancar/Guvenli-Alisveris) -
   Güvenli Alışveriş yapmak için nelere dikkat etmelisiniz? Hangi sitelerden
@@ -69,9 +69,6 @@ looking for my website? go to
   ([homepage](https://next-js-strapi-blog.vercel.app/)) - Static blog with
   Next.js + Strapi Headless CMS
 - [notes (2)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
-- [ramazansancar.github.io (2)](https://github.com/ramazansancar/ramazansancar.github.io)
-  ([homepage](https://ramazansancar.github.io)) - auto-generated list of
-  repositories on my account, mainly for catalogue info
 - [recipe-api-only (2)](https://github.com/ramazansancar/recipe-api-only)
   ([homepage](https://recipe-api-loopback.herokuapp.com/)) - API server for
   recipe based projects. If you want to have an app or website with recipes, but
@@ -134,7 +131,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (198)
+## Forks (199)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -276,8 +273,6 @@ looking for my website? go to
   PHP.
 - [flareact-template](https://github.com/ramazansancar/flareact-template) -
   Template for Flareact projects
-- [fmhy_FMHYedit](https://github.com/ramazansancar/fmhy_FMHYedit)
-  ([homepage](https://rentry.org/fmhyedit)) - Make changes to FMHY
 - [furkanarslann-THY_TravelHackathon](https://github.com/ramazansancar/furkanarslann-THY_TravelHackathon) -
   No description provided.
 - [haydar](https://github.com/ramazansancar/haydar) - No description provided.
@@ -389,6 +384,9 @@ looking for my website? go to
   ([homepage](http://labs.batu.me/projects/shoutcast1-api/)) - Provides a clean
   UTF-8 supported JSON API for Shoutcast 1.x by converting it's old XML api to
   JSON.
+- [ramazansancar.github.io](https://github.com/ramazansancar/ramazansancar.github.io)
+  ([homepage](https://ramazansancar.github.io)) - auto-generated list of
+  repositories on my account, mainly for catalogue info
 - [Random-Yazi-Tura](https://github.com/ramazansancar/Random-Yazi-Tura)
   ([homepage](https://random-yazi-tura.vercel.app/)) - Create with React Js
 - [razyo-api-server](https://github.com/ramazansancar/razyo-api-server) -
@@ -526,6 +524,8 @@ looking for my website? go to
   compliance. FastForward automatically skips annoying link shorteners.
 - [FluxpointDev_Translation](https://github.com/ramazansancar/FluxpointDev_Translation)
   ([homepage](https://fluxpoint.dev)) - Translation work for my Discord bots
+- [fmhy_FMHYedit](https://github.com/ramazansancar/fmhy_FMHYedit)
+  ([homepage](https://rentry.org/fmhyedit)) - Make changes to FMHY
 - [FreshRSS_Extensions](https://github.com/ramazansancar/FreshRSS_Extensions) -
   A repository containing all the official FreshRSS extensions
 - [FreshRSS_FreshRSS](https://github.com/ramazansancar/FreshRSS_FreshRSS)
