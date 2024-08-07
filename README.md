@@ -131,7 +131,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (200)
+## Forks (202)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -571,6 +571,11 @@ looking for my website? go to
 - [keyiflerolsun_Kekik-cloudstream](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
   ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
   Türkçe yayın yapan sitelere ait eklentiler
+- [keyiflerolsun_seyirTurk-Parser](https://github.com/ramazansancar/keyiflerolsun_seyirTurk-Parser) -
+  Bu depo, seyirturk.net uygulamasından decompile edilerek çıkartılmış Java
+  sınıfları ve scriptlerden oluşmaktadır.
+- [kticoder_Telegram-Diz](https://github.com/ramazansancar/kticoder_Telegram-Diz) -
+  Bir kanal yada gruptaki herşeyi dızlayın.... 🐍
 - [LayeredStudio-whoiser](https://github.com/ramazansancar/LayeredStudio-whoiser) -
   🌍 Easy to use WHOIS info for domains, TLDs and IPs
 - [localsend_localsend](https://github.com/ramazansancar/localsend_localsend)
