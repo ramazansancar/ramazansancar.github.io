@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (53)
+## Projects (52)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -60,8 +60,6 @@ looking for my website? go to
   öğrenilmesini kolaylaştıran araç
 - [KleiAccountsLocale (2)](https://github.com/ramazansancar/KleiAccountsLocale)
   ([homepage](https://accounts.klei.com)) - Klei Accounts Website Translations.
-- [KLU_Yemek (2)](https://github.com/ramazansancar/KLU_Yemek) - Kırklareli
-  Üniversitesi Yemek Listesi Android Uygulaması
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs (2)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs) -
   No description provided.
 - [lisans (2)](https://github.com/ramazansancar/lisans) - No description
@@ -133,7 +131,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (201)
+## Forks (202)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -294,6 +292,8 @@ looking for my website? go to
 - [Kartli-Yoklama-Aktaricisi](https://github.com/ramazansancar/Kartli-Yoklama-Aktaricisi) -
   Kartlı yoklama cihazı ile alınan yoklamaların birkaç tıklama ile öğrenci
   otomasyonuna aktarımına olanak sağlayan basit bir Chrome eklentisi.
+- [KLU_Yemek](https://github.com/ramazansancar/KLU_Yemek) - Kırklareli
+  Üniversitesi Yemek Listesi Android Uygulaması
 - [KodBilenBotTwitch](https://github.com/ramazansancar/KodBilenBotTwitch) - A
   Twitch bot for twitch.tv/kodbilen
 - [kodluyoruz-discord-register-bot](https://github.com/ramazansancar/kodluyoruz-discord-register-bot) -
