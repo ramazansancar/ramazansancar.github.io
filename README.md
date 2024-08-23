@@ -86,8 +86,8 @@ looking for my website? go to
 - [turkiye-haritasi-svg (2)](https://github.com/ramazansancar/turkiye-haritasi-svg) -
   No description provided.
 - [Upptime (2)](https://github.com/ramazansancar/Upptime)
-  ([homepage](https://upptime.ramazansancar.com.tr)) - ⬆️ Free uptime monitor and
-  status page powered by GitHub
+  ([homepage](https://upptime.ramazansancar.com.tr)) - ⬆️ Free uptime monitor
+  and status page powered by GitHub
 - [various-viewing-activity (2)](https://github.com/ramazansancar/various-viewing-activity) -
   No description provided.
 - [WebStats (2)](https://github.com/ramazansancar/WebStats) - WebStats Script v2
