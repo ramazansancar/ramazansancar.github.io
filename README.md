@@ -21,6 +21,7 @@ looking for my website? go to
   provided.
 - [netflix-viewing-activity (4)](https://github.com/ramazansancar/netflix-viewing-activity) -
   :tv: Download your Netflix account viewing activity in JSON or CSV.
+- [notes (4)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
 - [spn2 (4)](https://github.com/ramazansancar/spn2)
   ([homepage](https://www.npmjs.com/package/spn2)) - The SPN2 JS Library
   provides an easy-to-use interface to interact with the Save Page Now 2 (SPN2)
@@ -31,7 +32,6 @@ looking for my website? go to
   No description provided.
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python) -
   No description provided.
-- [notes (3)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
 - [radyo (3)](https://github.com/ramazansancar/radyo)
   ([homepage](https://www.ramazansancar.com.tr/radyo/)) - JSON ile Radyo Player
 - [spotify-song-recommender (3)](https://github.com/ramazansancar/spotify-song-recommender)
