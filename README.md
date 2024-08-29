@@ -55,6 +55,9 @@ looking for my website? go to
   Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
 - [injection_security (2)](https://github.com/ramazansancar/injection_security) -
   Güvenlik Koruma
+- [IULecture (2)](https://github.com/ramazansancar/IULecture) - Istanbul
+  University AUZEF Computer Programming and Graphic Design Lecture Notes and
+  Information Repo.
 - [kelimeci (2)](https://github.com/ramazansancar/kelimeci)
   ([homepage](http://cookingthecode.com/)) - yabancı dildeki kelimelerin
   öğrenilmesini kolaylaştıran araç
@@ -107,9 +110,6 @@ looking for my website? go to
 - [hello-world-vercel-nextjs-canary (1)](https://github.com/ramazansancar/hello-world-vercel-nextjs-canary)
   ([homepage](hello-world-vercel-nextjs-canary.vercel.app)) - No description
   provided.
-- [IULecture (1)](https://github.com/ramazansancar/IULecture) - Istanbul
-  University AUZEF Computer Programming and Graphic Design Lecture Notes and
-  Information Repo.
 - [movie-web_docs (1)](https://github.com/ramazansancar/movie-web_docs) - Fork
   from https://git.lonelil.com/movie-web/docs.git
 - [myagizmaktav_simple-cargo-tracker (1)](https://github.com/ramazansancar/myagizmaktav_simple-cargo-tracker) -
@@ -292,6 +292,8 @@ looking for my website? go to
 - [Kartli-Yoklama-Aktaricisi](https://github.com/ramazansancar/Kartli-Yoklama-Aktaricisi) -
   Kartlı yoklama cihazı ile alınan yoklamaların birkaç tıklama ile öğrenci
   otomasyonuna aktarımına olanak sağlayan basit bir Chrome eklentisi.
+- [keyiflerolsun_IPTV_YenirMi](https://github.com/ramazansancar/keyiflerolsun_IPTV_YenirMi) -
+  IPTV üzerine Kendime Notlar
 - [KLU_Yemek](https://github.com/ramazansancar/KLU_Yemek) - Kırklareli
   Üniversitesi Yemek Listesi Android Uygulaması
 - [KodBilenBotTwitch](https://github.com/ramazansancar/KodBilenBotTwitch) - A
@@ -566,8 +568,6 @@ looking for my website? go to
 - [kaymal_acik-veri](https://github.com/ramazansancar/kaymal_acik-veri) -
   Türkiye'nin açık veri kaynakları | Curated list of open data platforms of
   Turkiye
-- [keyiflerolsun_IPTV_YenirMi](https://github.com/ramazansancar/keyiflerolsun_IPTV_YenirMi) -
-  IPTV üzerine Kendime Notlar
 - [keyiflerolsun_Kekik-cloudstream](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
   ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
   Türkçe yayın yapan sitelere ait eklentiler
