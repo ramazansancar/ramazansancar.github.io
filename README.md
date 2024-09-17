@@ -313,6 +313,13 @@ looking for my website? go to
   ([homepage](https://www.membercounter.bot)) - Member Counter is a Discord bot
   which lets you easily display counts and other dynamic information in a
   channel name or topic
+- [movie-web_discord-bot](https://github.com/ramazansancar/movie-web_discord-bot) -
+  Simple discord bot to work along-side movie-web
+- [movie-web_movie-web](https://github.com/ramazansancar/movie-web_movie-web)
+  ([homepage](https://movies.meghrathod.dev)) - A small web app for watching
+  movies and shows easily
+- [movie-web_native-app](https://github.com/ramazansancar/movie-web_native-app) -
+  The native app version of movie-web
 - [mui-x](https://github.com/ramazansancar/mui-x)
   ([homepage](https://mui.com/x/)) - MUI X: Advanced and powerful React
   components for complex use-cases.
@@ -600,15 +607,8 @@ looking for my website? go to
   A simple backend api app to support notes taking in any system.
 - [movie-web_backend](https://github.com/ramazansancar/movie-web_backend) -
   Backend for movie-web
-- [movie-web_discord-bot](https://github.com/ramazansancar/movie-web_discord-bot) -
-  Simple discord bot to work along-side movie-web
 - [movie-web_extension](https://github.com/ramazansancar/movie-web_extension) -
   movie-web extension, allows providers to work without proxy
-- [movie-web_movie-web](https://github.com/ramazansancar/movie-web_movie-web)
-  ([homepage](https://movies.meghrathod.dev)) - A small web app for watching
-  movies and shows easily
-- [movie-web_native-app](https://github.com/ramazansancar/movie-web_native-app) -
-  The native app version of movie-web
 - [movie-web_providers](https://github.com/ramazansancar/movie-web_providers) -
   Package that contains all the providers of movie-web
 - [mustafa05deniz-nuxt3-blog-with-notion](https://github.com/ramazansancar/mustafa05deniz-nuxt3-blog-with-notion)
