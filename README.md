@@ -131,7 +131,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (205)
+## Forks (207)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -513,6 +513,13 @@ looking for my website? go to
   backend repository of Attendance Tracking System of Team Aces for SIH 2022.
 - [ayetkin_cross-check](https://github.com/ramazansancar/ayetkin_cross-check) -
   No description provided.
+- [Caglarsonmez_KAP_Scraper](https://github.com/ramazansancar/Caglarsonmez_KAP_Scraper) -
+  Scraping kap.org.tr for Turkish corporation data
+- [cahitihac_kap-notifier](https://github.com/ramazansancar/cahitihac_kap-notifier) -
+  A server and client app that requests new disclosures published on KAP
+  (https://www.kap.org.tr/). New disclosures are updated on KAP every 3 minutes
+  which is a very long time in terms of stocks market. kap-notifier makes
+  requests every 3 seconds by default.
 - [chesslablab_website](https://github.com/ramazansancar/chesslablab_website)
   ([homepage](https://chesslablab.github.io/website/)) - Website intended to
   learn and play chess online.
