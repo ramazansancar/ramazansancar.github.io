@@ -131,7 +131,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (207)
+## Forks (208)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -634,6 +634,8 @@ looking for my website? go to
   No description provided.
 - [ozalpmurat_BilgisayarAglari-Kitap](https://github.com/ramazansancar/ozalpmurat_BilgisayarAglari-Kitap) -
   Bilgisayar Ağları Ders Notları
+- [OzgeOzkaya_AnitSayac](https://github.com/ramazansancar/OzgeOzkaya_AnitSayac) -
+  No description provided.
 - [regstuff_git-news](https://github.com/ramazansancar/regstuff_git-news) - No
   description provided.
 - [samogod_mobese](https://github.com/ramazansancar/samogod_mobese) - Advanced
