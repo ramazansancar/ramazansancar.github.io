@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (53)
+## Projects (54)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -120,6 +120,8 @@ looking for my website? go to
   description provided.
 - [website-homepage (1)](https://github.com/ramazansancar/website-homepage) - No
   description provided.
+- [AnitSayac_Scrapper (0)](https://github.com/ramazansancar/AnitSayac_Scrapper) -
+  No description provided.
 - [btk-bXXX (0)](https://github.com/ramazansancar/btk-bXXX) - BTK, Numara
   Taşınabilirliği Yönlendirme Kodları (BXXX)
 - [cloudflareDnsUpdater (0)](https://github.com/ramazansancar/cloudflareDnsUpdater) -
