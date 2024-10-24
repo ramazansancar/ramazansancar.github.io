@@ -96,6 +96,8 @@ looking for my website? go to
 - [WebStats (2)](https://github.com/ramazansancar/WebStats) - WebStats Script v2
 - [zumrudu-anka (2)](https://github.com/ramazansancar/zumrudu-anka)
   ([homepage](https://zumrudu-anka.github.io/)) - 🐲 GitHub Profile Readme
+- [AnitSayac_Scrapper (1)](https://github.com/ramazansancar/AnitSayac_Scrapper) -
+  No description provided.
 - [CS50x-Fellow-Basvuru-Islemleri (1)](https://github.com/ramazansancar/CS50x-Fellow-Basvuru-Islemleri)
   ([homepage](https://blog.ramazansancar.com.tr/)) - Kodluyoruz CS50x 'de gelen
   başvuruları düzenleme, Toplu mail gönderme gibi işlemleri çok daha kolay
@@ -120,8 +122,6 @@ looking for my website? go to
   description provided.
 - [website-homepage (1)](https://github.com/ramazansancar/website-homepage) - No
   description provided.
-- [AnitSayac_Scrapper (0)](https://github.com/ramazansancar/AnitSayac_Scrapper) -
-  No description provided.
 - [btk-bXXX (0)](https://github.com/ramazansancar/btk-bXXX) - BTK, Numara
   Taşınabilirliği Yönlendirme Kodları (BXXX)
 - [cloudflareDnsUpdater (0)](https://github.com/ramazansancar/cloudflareDnsUpdater) -
