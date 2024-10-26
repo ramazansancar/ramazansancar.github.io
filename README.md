@@ -41,6 +41,8 @@ looking for my website? go to
   No description provided.
 - [AndroidStringXmlTranslator (2)](https://github.com/ramazansancar/AndroidStringXmlTranslator) -
   No description provided.
+- [AnitSayac_Scrapper (2)](https://github.com/ramazansancar/AnitSayac_Scrapper) -
+  No description provided.
 - [canli-kameralar (2)](https://github.com/ramazansancar/canli-kameralar) -
   Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [deneme (2)](https://github.com/ramazansancar/deneme) - deneme
@@ -96,8 +98,6 @@ looking for my website? go to
 - [WebStats (2)](https://github.com/ramazansancar/WebStats) - WebStats Script v2
 - [zumrudu-anka (2)](https://github.com/ramazansancar/zumrudu-anka)
   ([homepage](https://zumrudu-anka.github.io/)) - 🐲 GitHub Profile Readme
-- [AnitSayac_Scrapper (1)](https://github.com/ramazansancar/AnitSayac_Scrapper) -
-  No description provided.
 - [CS50x-Fellow-Basvuru-Islemleri (1)](https://github.com/ramazansancar/CS50x-Fellow-Basvuru-Islemleri)
   ([homepage](https://blog.ramazansancar.com.tr/)) - Kodluyoruz CS50x 'de gelen
   başvuruları düzenleme, Toplu mail gönderme gibi işlemleri çok daha kolay
