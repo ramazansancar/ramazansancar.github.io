@@ -135,7 +135,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (211)
+## Forks (212)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -587,6 +587,10 @@ looking for my website? go to
   will not be processed on Oct 12 - Oct 22, 2023. // Identify email addresses or
   domains names that belong to colleges or universities. Help automate the
   process of approving or rejecting academic discounts.
+- [jitsi_jitsi-meet](https://github.com/ramazansancar/jitsi_jitsi-meet)
+  ([homepage](https://jitsi.org/meet)) - Jitsi Meet - Secure, Simple and
+  Scalable Video Conferences that you use as a standalone app or embed in your
+  web application.
 - [JorrinKievit_trestreamer](https://github.com/ramazansancar/JorrinKievit_trestreamer)
   ([homepage](https://restreamer.jorrinkievit.xyz)) - Desktop app for streaming
   movies and TV shows
