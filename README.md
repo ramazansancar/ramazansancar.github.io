@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (54)
+## Projects (55)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -41,8 +41,11 @@ looking for my website? go to
   No description provided.
 - [AndroidStringXmlTranslator (2)](https://github.com/ramazansancar/AndroidStringXmlTranslator) -
   No description provided.
-- [AnitSayac_Scrapper (2)](https://github.com/ramazansancar/AnitSayac_Scrapper) -
-  No description provided.
+- [AnitSayac_Scrapper (2)](https://github.com/ramazansancar/AnitSayac_Scrapper)
+  ([homepage](https://anitsayac.com/)) - It is recommended that people who will
+  use it for data processing use the JSON file. The JSON file is updated every
+  every day at midnight (00:00) for UTC. The data is taken from the site Anıt
+  Sayaç.
 - [canli-kameralar (2)](https://github.com/ramazansancar/canli-kameralar) -
   Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [deneme (2)](https://github.com/ramazansancar/deneme) - deneme
@@ -124,6 +127,10 @@ looking for my website? go to
   description provided.
 - [btk-bXXX (0)](https://github.com/ramazansancar/btk-bXXX) - BTK, Numara
   Taşınabilirliği Yönlendirme Kodları (BXXX)
+- [btk-yer_saglayici (0)](https://github.com/ramazansancar/btk-yer_saglayici)
+  ([homepage](https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi)) -
+  Software that retrieves BTK 'Commercial Service Providers Hosting Provider'
+  data and checks its current status daily
 - [cloudflareDnsUpdater (0)](https://github.com/ramazansancar/cloudflareDnsUpdater) -
   No description provided.
 - [grasspow-TelegramStickersDownloadBot (0)](https://github.com/ramazansancar/grasspow-TelegramStickersDownloadBot) -
