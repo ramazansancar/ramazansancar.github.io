@@ -142,7 +142,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (213)
+## Forks (215)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -526,6 +526,8 @@ looking for my website? go to
   backend repository of Attendance Tracking System of Team Aces for SIH 2022.
 - [ayetkin_cross-check](https://github.com/ramazansancar/ayetkin_cross-check) -
   No description provided.
+- [bitcookies_winrar-keygen](https://github.com/ramazansancar/bitcookies_winrar-keygen) -
+  Principle of WinRAR key generation.
 - [Caglarsonmez_KAP_Scraper](https://github.com/ramazansancar/Caglarsonmez_KAP_Scraper) -
   Scraping kap.org.tr for Turkish corporation data
 - [cahitihac_kap-notifier](https://github.com/ramazansancar/cahitihac_kap-notifier) -
@@ -680,6 +682,8 @@ looking for my website? go to
 - [v3_ramazansancar.com.tr](https://github.com/ramazansancar/v3_ramazansancar.com.tr)
   ([homepage](https://github.com/ozgursagiroglu)) - Config files for my GitHub
   profile.
+- [W4RH4WK_Debloat-Windows-10](https://github.com/ramazansancar/W4RH4WK_Debloat-Windows-10) -
+  A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [weepay_weepay-nodejs](https://github.com/ramazansancar/weepay_weepay-nodejs) -
   weepay Integration for nodejs
 
