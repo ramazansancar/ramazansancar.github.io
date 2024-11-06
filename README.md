@@ -142,7 +142,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (215)
+## Forks (216)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -638,6 +638,8 @@ looking for my website? go to
 - [mertskaplan_multitv](https://github.com/ramazansancar/mertskaplan_multitv)
   ([homepage](https://portal.ramazansancar.com.tr/multitv/)) - It allows to
   watch many television news channels at the same time via YouTube.
+- [microsoft_windows-dev-box-setup-scripts](https://github.com/ramazansancar/microsoft_windows-dev-box-setup-scripts) -
+  Scripts to simplify setting up a Windows developer box
 - [mirimadahmed_notes-api](https://github.com/ramazansancar/mirimadahmed_notes-api) -
   A simple backend api app to support notes taking in any system.
 - [movie-web_backend](https://github.com/ramazansancar/movie-web_backend) -
