@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (55)
+## Projects (54)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -93,9 +93,6 @@ looking for my website? go to
   useful payloads and bypass for Web Application Security and Pentest/CTF
 - [turkiye-haritasi-svg (2)](https://github.com/ramazansancar/turkiye-haritasi-svg) -
   No description provided.
-- [Upptime (2)](https://github.com/ramazansancar/Upptime)
-  ([homepage](https://upptime.ramazansancar.com.tr)) - ⬆️ Free uptime monitor
-  and status page powered by GitHub
 - [various-viewing-activity (2)](https://github.com/ramazansancar/various-viewing-activity) -
   No description provided.
 - [WebStats (2)](https://github.com/ramazansancar/WebStats) - WebStats Script v2
@@ -142,7 +139,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (216)
+## Forks (218)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -662,6 +659,9 @@ looking for my website? go to
   No description provided.
 - [pi-hole_docs](https://github.com/ramazansancar/pi-hole_docs)
   ([homepage](https://docs.pi-hole.net/)) - The official Pi-hole documentation
+- [qeeqbox_social-analyzer](https://github.com/ramazansancar/qeeqbox_social-analyzer) -
+  API, CLI, and Web App for analyzing and finding a person's profile in 1000
+  social media \ websites
 - [regstuff_git-news](https://github.com/ramazansancar/regstuff_git-news) - No
   description provided.
 - [samogod_mobese](https://github.com/ramazansancar/samogod_mobese) - Advanced
@@ -670,6 +670,8 @@ looking for my website? go to
   ([homepage](https://filmacorn.vercel.app)) - 🎬 Crackle 클론코딩
 - [soheee-bae_Portfolio23](https://github.com/ramazansancar/soheee-bae_Portfolio23) -
   🏠 Portfolio (2023)
+- [Star-nikki_CogniVisage](https://github.com/ramazansancar/Star-nikki_CogniVisage) -
+  No description provided.
 - [syno-community_arpl-i18n](https://github.com/ramazansancar/syno-community_arpl-i18n)
   ([homepage](https://github.com/syno-community/rr)) - Automated Redpill Loader
 - [thomiceli_opengist](https://github.com/ramazansancar/thomiceli_opengist)
