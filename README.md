@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (54)
+## Projects (55)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -135,6 +135,9 @@ looking for my website? go to
 - [planningListApi (0)](https://github.com/ramazansancar/planningListApi)
   ([homepage](https://planningoperationapi-wen7okua.b4a.run/)) - ISP (Internet
   Service Provider) Planning Operation List API for Turkey
+- [Ulaknet_Stats (0)](https://github.com/ramazansancar/Ulaknet_Stats)
+  ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
+  Network Load Map
 - [webappalyzer-js (0)](https://github.com/ramazansancar/webappalyzer-js)
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
