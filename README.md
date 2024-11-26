@@ -570,7 +570,7 @@ looking for my website? go to
 - [FreshRSS_FreshRSS](https://github.com/ramazansancar/FreshRSS_FreshRSS)
   ([homepage](https://freshrss.org)) - A free, self-hostable news aggregator…
 - [gethomepage_homepage](https://github.com/ramazansancar/gethomepage_homepage)
-  ([homepage](https://gethomepage.dev/)) - A highly customizable homepage (or
+  ([homepage](https://gethomepage.dev)) - A highly customizable homepage (or
   startpage / application dashboard) with Docker and service API integrations.
 - [gnojus_wedl-go](https://github.com/ramazansancar/gnojus_wedl-go) - Small
   command line utility to download from https://wetransfer.com
