@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (55)
+## Projects (56)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -66,6 +66,8 @@ looking for my website? go to
 - [kelimeci (2)](https://github.com/ramazansancar/kelimeci)
   ([homepage](http://cookingthecode.com/)) - yabancı dildeki kelimelerin
   öğrenilmesini kolaylaştıran araç
+- [keyiflerolsun_IPTV_YenirMi (2)](https://github.com/ramazansancar/keyiflerolsun_IPTV_YenirMi) -
+  IPTV üzerine Kendime Notlar
 - [KleiAccountsLocale (2)](https://github.com/ramazansancar/KleiAccountsLocale)
   ([homepage](https://accounts.klei.com)) - Klei Accounts Website Translations.
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs (2)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs) -
@@ -142,7 +144,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (222)
+## Forks (221)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -303,8 +305,6 @@ looking for my website? go to
 - [Kartli-Yoklama-Aktaricisi](https://github.com/ramazansancar/Kartli-Yoklama-Aktaricisi) -
   Kartlı yoklama cihazı ile alınan yoklamaların birkaç tıklama ile öğrenci
   otomasyonuna aktarımına olanak sağlayan basit bir Chrome eklentisi.
-- [keyiflerolsun_IPTV_YenirMi](https://github.com/ramazansancar/keyiflerolsun_IPTV_YenirMi) -
-  IPTV üzerine Kendime Notlar
 - [KLU_Yemek](https://github.com/ramazansancar/KLU_Yemek) - Kırklareli
   Üniversitesi Yemek Listesi Android Uygulaması
 - [KodBilenBotTwitch](https://github.com/ramazansancar/KodBilenBotTwitch) - A
