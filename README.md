@@ -28,6 +28,9 @@ looking for my website? go to
   API, which is part of the Internet Archive's Wayback Machine service.
 - [weatherApi (4)](https://github.com/ramazansancar/weatherApi)
   ([homepage](https://weatherapi.cyclic.app/)) - Open Weather API Backend
+- [IULecture (3)](https://github.com/ramazansancar/IULecture) - Istanbul
+  University AUZEF Computer Programming and Graphic Design Lecture Notes and
+  Information Repo.
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go) -
   No description provided.
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python) -
@@ -60,9 +63,6 @@ looking for my website? go to
   Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
 - [injection_security (2)](https://github.com/ramazansancar/injection_security) -
   Güvenlik Koruma
-- [IULecture (2)](https://github.com/ramazansancar/IULecture) - Istanbul
-  University AUZEF Computer Programming and Graphic Design Lecture Notes and
-  Information Repo.
 - [kelimeci (2)](https://github.com/ramazansancar/kelimeci)
   ([homepage](http://cookingthecode.com/)) - yabancı dildeki kelimelerin
   öğrenilmesini kolaylaştıran araç
