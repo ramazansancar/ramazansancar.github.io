@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (61)
+## Projects (57)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -51,22 +51,10 @@ looking for my website? go to
   Sayaç.
 - [canli-kameralar (2)](https://github.com/ramazansancar/canli-kameralar) -
   Türkiye'de yer alan Canlı Kameraların M3U Listesi
-- [country-app (2)](https://github.com/ramazansancar/country-app)
-  ([homepage](https://country-app-zeta.vercel.app/)) - Country App
-- [data-analyst-roadmap (2)](https://github.com/ramazansancar/data-analyst-roadmap) -
-  Based on my own experience, I think this roadmap will answer all the questions
-  of how to become a data analyst from zero, which technologies and programming
-  languages are better to know, what kind of soft skills do we need, how do I
-  start my professional career in this field.
 - [deneme (2)](https://github.com/ramazansancar/deneme) - deneme
-- [discord-together (2)](https://github.com/ramazansancar/discord-together) -
-  Play games or watch YouTube videos together on Discord ! More than 18 games
-  available !
 - [email-templates (2)](https://github.com/ramazansancar/email-templates)
   ([homepage](https://colorlib.com/wp/responsive-html-email-templates/)) - Free
   HTML email templates for Mailchimp and other emails services
-- [en.javascript.info (2)](https://github.com/ramazansancar/en.javascript.info)
-  ([homepage](https://javascript.info)) - Modern JavaScript Tutorial
 - [Gatsby-default-starter (2)](https://github.com/ramazansancar/Gatsby-default-starter) -
   No description provided.
 - [GazeteArsivi (2)](https://github.com/ramazansancar/GazeteArsivi) - Bu repo
@@ -158,7 +146,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (217)
+## Forks (221)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -213,6 +201,8 @@ looking for my website? go to
   Bootstrap 5 based Vue 3 components and directives. CoreUI for Vue.js replaces
   and extends the Bootstrap 5 javascript. Components have been built from
   scratch as true Vue 3 components.
+- [country-app](https://github.com/ramazansancar/country-app)
+  ([homepage](https://country-app-zeta.vercel.app/)) - Country App
 - [cropit](https://github.com/ramazansancar/cropit)
   ([homepage](http://scottcheng.github.io/cropit/)) - A "customizable crop and
   zoom" jQuery plugin.
@@ -238,6 +228,11 @@ looking for my website? go to
   ([homepage](https://www.stimulsoft.com/en/products/dashboards-js)) -
   Stimulsoft Dashboards.JS is a dashboard tool for Node.js and JavaScript
   applications.
+- [data-analyst-roadmap](https://github.com/ramazansancar/data-analyst-roadmap) -
+  Based on my own experience, I think this roadmap will answer all the questions
+  of how to become a data analyst from zero, which technologies and programming
+  languages are better to know, what kind of soft skills do we need, how do I
+  start my professional career in this field.
 - [destack](https://github.com/ramazansancar/destack) - Page builder based on
   Next.js 🅧, Tailwind CSS 🍃 & Grapes.js 🍇. Zero-config deployment to Vercel
   🚀. Now also supports React!
@@ -249,6 +244,9 @@ looking for my website? go to
   No description provided.
 - [discord-meeting-manager](https://github.com/ramazansancar/discord-meeting-manager) -
   No description provided.
+- [discord-together](https://github.com/ramazansancar/discord-together) - Play
+  games or watch YouTube videos together on Discord ! More than 18 games
+  available !
 - [Discord-Token-Logger](https://github.com/ramazansancar/Discord-Token-Logger) -
   discord token logger in java that captures screen and camera as well
 - [discordjs-activity](https://github.com/ramazansancar/discordjs-activity)
@@ -272,6 +270,8 @@ looking for my website? go to
 - [Eltik_M3U8-Proxy](https://github.com/ramazansancar/Eltik_M3U8-Proxy)
   ([homepage](https://m3u8-proxy-with-cors.vercel.app/)) - Proxy m3u8 files
   through pure JavaScript.
+- [en.javascript.info](https://github.com/ramazansancar/en.javascript.info)
+  ([homepage](https://javascript.info)) - Modern JavaScript Tutorial
 - [Eresbos-Register](https://github.com/ramazansancar/Eresbos-Register) - No
   description provided.
 - [fake-store-api](https://github.com/ramazansancar/fake-store-api)
