@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (59)
+## Projects (58)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -52,9 +52,6 @@ looking for my website? go to
 - [canli-kameralar (2)](https://github.com/ramazansancar/canli-kameralar) -
   Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [deneme (2)](https://github.com/ramazansancar/deneme) - deneme
-- [Eltik_M3U8-Proxy (2)](https://github.com/ramazansancar/Eltik_M3U8-Proxy)
-  ([homepage](https://m3u8-proxy-with-cors.vercel.app/)) - Proxy m3u8 files
-  through pure JavaScript.
 - [email-templates (2)](https://github.com/ramazansancar/email-templates)
   ([homepage](https://colorlib.com/wp/responsive-html-email-templates/)) - Free
   HTML email templates for Mailchimp and other emails services
@@ -152,7 +149,7 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
 
-## Forks (220)
+## Forks (221)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -202,8 +199,6 @@ looking for my website? go to
   and KV storage.
 - [chatty](https://github.com/ramazansancar/chatty) - Twitch Chat Client written
   in Java
-- [coding-to-music_gamedb](https://github.com/ramazansancar/coding-to-music_gamedb)
-  ([homepage](https://globalsteam.online/)) - No description provided.
 - [coreui-vue](https://github.com/ramazansancar/coreui-vue)
   ([homepage](https://coreui.io/vue/docs/getting-started/introduction.html)) -
   Bootstrap 5 based Vue 3 components and directives. CoreUI for Vue.js replaces
@@ -275,6 +270,9 @@ looking for my website? go to
 - [electron-archivebox](https://github.com/ramazansancar/electron-archivebox)
   ([homepage](https://archivebox.io)) - Desktop Electron app for ArchiveBox
   internet archiver. (ALPHA: not ready for general use)
+- [Eltik_M3U8-Proxy](https://github.com/ramazansancar/Eltik_M3U8-Proxy)
+  ([homepage](https://m3u8-proxy-with-cors.vercel.app/)) - Proxy m3u8 files
+  through pure JavaScript.
 - [en.javascript.info](https://github.com/ramazansancar/en.javascript.info)
   ([homepage](https://javascript.info)) - Modern JavaScript Tutorial
 - [Eresbos-Register](https://github.com/ramazansancar/Eresbos-Register) - No
@@ -552,6 +550,8 @@ looking for my website? go to
 - [chesslablab_website](https://github.com/ramazansancar/chesslablab_website)
   ([homepage](https://chesslablab.github.io/website/)) - Website intended to
   learn and play chess online.
+- [coding-to-music_gamedb](https://github.com/ramazansancar/coding-to-music_gamedb)
+  ([homepage](https://globalsteam.online/)) - No description provided.
 - [davidarroyo1234_InstagramUnfollowers](https://github.com/ramazansancar/davidarroyo1234_InstagramUnfollowers) -
   Check if people follows you back on Instagram.
 - [dochne_wappalyzer](https://github.com/ramazansancar/dochne_wappalyzer) - The
