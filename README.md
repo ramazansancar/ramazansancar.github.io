@@ -19,6 +19,9 @@ looking for my website? go to
   alışveriş yapılır? Nasıl Dolandırılmam? vs.
 - [Dexofuzzy2 (5)](https://github.com/ramazansancar/Dexofuzzy2) - No description
   provided.
+- [IULecture (4)](https://github.com/ramazansancar/IULecture) - Istanbul
+  University AUZEF Computer Programming and Graphic Design Lecture Notes and
+  Information Repo.
 - [netflix-viewing-activity (4)](https://github.com/ramazansancar/netflix-viewing-activity) -
   :tv: Download your Netflix account viewing activity in JSON or CSV.
 - [notes (4)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
@@ -28,9 +31,6 @@ looking for my website? go to
   API, which is part of the Internet Archive's Wayback Machine service.
 - [weatherApi (4)](https://github.com/ramazansancar/weatherApi)
   ([homepage](https://weatherapi.cyclic.app/)) - Open Weather API Backend
-- [IULecture (3)](https://github.com/ramazansancar/IULecture) - Istanbul
-  University AUZEF Computer Programming and Graphic Design Lecture Notes and
-  Information Repo.
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
   ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
@@ -43,8 +43,10 @@ looking for my website? go to
 - [.github (2)](https://github.com/ramazansancar/.github) - Sponsor button etc
 - [actuallyzefe-Amazon-Web-Scraping (2)](https://github.com/ramazansancar/actuallyzefe-Amazon-Web-Scraping) -
   No description provided.
-- [AndroidStringXmlTranslator (2)](https://github.com/ramazansancar/AndroidStringXmlTranslator) -
-  No description provided.
+- [AndroidStringXmlTranslator (2)](https://github.com/ramazansancar/AndroidStringXmlTranslator)
+  ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
+  In order to make language translations more efficiently, I have a repo like
+  this.
 - [AnitSayac_Scrapper (2)](https://github.com/ramazansancar/AnitSayac_Scrapper)
   ([homepage](https://anitsayac.com/)) - It is recommended that people who will
   use it for data processing use the JSON file. The JSON file is updated every
@@ -147,7 +149,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (225)
+## Forks (226)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -652,6 +654,8 @@ looking for my website? go to
   Scripts to simplify setting up a Windows developer box
 - [mirimadahmed_notes-api](https://github.com/ramazansancar/mirimadahmed_notes-api) -
   A simple backend api app to support notes taking in any system.
+- [mostafaalagamy_Metrolist](https://github.com/ramazansancar/mostafaalagamy_Metrolist) -
+  YouTube Music client for Android
 - [movie-web_backend](https://github.com/ramazansancar/movie-web_backend) -
   Backend for movie-web
 - [movie-web_extension](https://github.com/ramazansancar/movie-web_extension) -
