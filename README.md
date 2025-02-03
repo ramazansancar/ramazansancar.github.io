@@ -31,6 +31,10 @@ looking for my website? go to
   API, which is part of the Internet Archive's Wayback Machine service.
 - [weatherApi (4)](https://github.com/ramazansancar/weatherApi)
   ([homepage](https://weatherapi.cyclic.app/)) - Open Weather API Backend
+- [AndroidStringXmlTranslator (3)](https://github.com/ramazansancar/AndroidStringXmlTranslator)
+  ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
+  In order to make language translations more efficiently, I have a repo like
+  this.
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
   ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
@@ -43,10 +47,6 @@ looking for my website? go to
 - [.github (2)](https://github.com/ramazansancar/.github) - Sponsor button etc
 - [actuallyzefe-Amazon-Web-Scraping (2)](https://github.com/ramazansancar/actuallyzefe-Amazon-Web-Scraping) -
   No description provided.
-- [AndroidStringXmlTranslator (2)](https://github.com/ramazansancar/AndroidStringXmlTranslator)
-  ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
-  In order to make language translations more efficiently, I have a repo like
-  this.
 - [AnitSayac_Scrapper (2)](https://github.com/ramazansancar/AnitSayac_Scrapper)
   ([homepage](https://anitsayac.com/)) - It is recommended that people who will
   use it for data processing use the JSON file. The JSON file is updated every
@@ -260,9 +260,6 @@ looking for my website? go to
   user logs.
 - [doctor-chain-supply-management](https://github.com/ramazansancar/doctor-chain-supply-management) -
   No description provided.
-- [docusaurus](https://github.com/ramazansancar/docusaurus)
-  ([homepage](https://docusaurus.io)) - Easy to maintain open source
-  documentation websites.
 - [dragonpilot](https://github.com/ramazansancar/dragonpilot)
   ([homepage](http://wiki.dragonpilot.cn)) - dragonpilot - openpilot
 - [eduardozgz.com](https://github.com/ramazansancar/eduardozgz.com) -
@@ -279,6 +276,9 @@ looking for my website? go to
   ([homepage](https://javascript.info)) - Modern JavaScript Tutorial
 - [Eresbos-Register](https://github.com/ramazansancar/Eresbos-Register) - No
   description provided.
+- [facebook_docusaurus](https://github.com/ramazansancar/facebook_docusaurus)
+  ([homepage](https://docusaurus.io)) - Easy to maintain open source
+  documentation websites.
 - [fake-store-api](https://github.com/ramazansancar/fake-store-api)
   ([homepage](https://fakestoreapi.com)) - FakeStoreAPI is a free online REST
   API that provides you fake e-commerce JSON data
@@ -379,7 +379,7 @@ looking for my website? go to
   formatındaki eFatura, eİrsaliye, eArşiv belgesini online görüntüleme
 - [owntracks-android](https://github.com/ramazansancar/owntracks-android)
   ([homepage](http://owntracks.org)) - OwnTracks Android App
-- [owntracks-frontend](https://github.com/ramazansancar/owntracks-frontend) - 🌍
+- [owntracks_frontend](https://github.com/ramazansancar/owntracks_frontend) - 🌍
   Web interface for OwnTracks built with Vue.js
 - [payu](https://github.com/ramazansancar/payu)
   ([homepage](https://ingameltd.github.io/payu/)) - A typesafe PayU client for
@@ -513,7 +513,7 @@ looking for my website? go to
   ([homepage](http://tennc.github.io)) - This is a webshell open source project
 - [webshells](https://github.com/ramazansancar/webshells) - Various webshells.
   We accept pull requests for additions to this collection.
-- [yuliskov-SmartTubeNext](https://github.com/ramazansancar/yuliskov-SmartTubeNext)
+- [yuliskov_SmartTubeNext](https://github.com/ramazansancar/yuliskov_SmartTubeNext)
   ([homepage](https://www.patreon.com/smarttube)) - Ad free app for watching
   tube videos on Android TV boxes
 - [yumod-chrome-extension](https://github.com/ramazansancar/yumod-chrome-extension) -
