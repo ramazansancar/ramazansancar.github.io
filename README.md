@@ -35,6 +35,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
   In order to make language translations more efficiently, I have a repo like
   this.
+  https://raw.githack.com/ramazansancar/AndroidStringXmlTranslator/master/index.html
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
   ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
@@ -149,7 +150,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (227)
+## Forks (228)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -677,6 +678,8 @@ looking for my website? go to
   No description provided.
 - [ntblk_dns-doh](https://github.com/ramazansancar/ntblk_dns-doh) - No
   description provided.
+- [nuxt_devtools](https://github.com/ramazansancar/nuxt_devtools)
+  ([homepage](https://devtools.nuxt.com)) - Unleash Nuxt Developer Experience
 - [OpenRailwayMap_OpenRailwayMap](https://github.com/ramazansancar/OpenRailwayMap_OpenRailwayMap)
   ([homepage](http://www.openrailwaymap.org/)) - An OpenStreetMap-based project
   for creating a map of the world's railway infrastructure.
