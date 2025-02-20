@@ -519,8 +519,9 @@ looking for my website? go to
   tube videos on Android TV boxes
 - [yumod-chrome-extension](https://github.com/ramazansancar/yumod-chrome-extension) -
   Yumod Chrome Extension
-- [acikkaynak_calisma-mekanlari](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari) -
-  Çalışma mekanlarını bu repository altında listeliyoruz
+- [acikkaynak_calisma-mekanlari](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari)
+  ([homepage](https://calisma-mekanlari-app.vercel.app/)) - Çalışma mekanlarını
+  bu repository altında listeliyoruz
 - [acikyazilimagi_acikyazilimagi](https://github.com/ramazansancar/acikyazilimagi_acikyazilimagi) -
   No description provided.
 - [AdguardTeam-AdguardFilters](https://github.com/ramazansancar/AdguardTeam-AdguardFilters)
