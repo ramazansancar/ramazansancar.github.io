@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (57)
+## Projects (63)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -31,6 +31,9 @@ looking for my website? go to
   API, which is part of the Internet Archive's Wayback Machine service.
 - [weatherApi (4)](https://github.com/ramazansancar/weatherApi)
   ([homepage](https://weatherapi.cyclic.app/)) - Open Weather API Backend
+- [.github (3)](https://github.com/ramazansancar/.github) - Sponsor button etc
+- [actuallyzefe-Amazon-Web-Scraping (3)](https://github.com/ramazansancar/actuallyzefe-Amazon-Web-Scraping) -
+  No description provided.
 - [AndroidStringXmlTranslator (3)](https://github.com/ramazansancar/AndroidStringXmlTranslator)
   ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
   In order to make language translations more efficiently, I have a repo like
@@ -45,9 +48,20 @@ looking for my website? go to
   ([homepage](https://www.ramazansancar.com.tr/radyo/)) - JSON ile Radyo Player
 - [spotify-song-recommender (3)](https://github.com/ramazansancar/spotify-song-recommender)
   ([homepage](https://spotify.ramazansancar.com.tr/)) - No description provided.
-- [.github (2)](https://github.com/ramazansancar/.github) - Sponsor button etc
-- [actuallyzefe-Amazon-Web-Scraping (2)](https://github.com/ramazansancar/actuallyzefe-Amazon-Web-Scraping) -
+- [acikkaynak_musahit-harita-frontend (2)](https://github.com/ramazansancar/acikkaynak_musahit-harita-frontend)
+  ([homepage](https://musahit-harita-frontend-git-stage-acikyazilim.vercel.app)) -
+  secim.gonullu.io frontend repo
+- [acikkaynak_secim-bot-telegram (2)](https://github.com/ramazansancar/acikkaynak_secim-bot-telegram) -
   No description provided.
+- [ahmetb-public-speaking (2)](https://github.com/ramazansancar/ahmetb-public-speaking) -
+  @ahmetb's public speaking engagements & bio
+- [AhmetFurkanDEMIR_HepsiTrendTech (2)](https://github.com/ramazansancar/AhmetFurkanDEMIR_HepsiTrendTech)
+  ([homepage](https://hepsitrend.tech/)) - The website of the Hepsitrend.tech
+  application written in Django.
+- [AidanWelch_OpenTrafficCamMap (2)](https://github.com/ramazansancar/AidanWelch_OpenTrafficCamMap)
+  ([homepage](https://ramazansancar.github.io/AidanWelch_OpenTrafficCamMap/map.html)) -
+  A crowdsourced database of traffic cameras -
+  http://otc.armchairresearch.org/map
 - [AnitSayac_Scrapper (2)](https://github.com/ramazansancar/AnitSayac_Scrapper)
   ([homepage](https://anitsayac.com/)) - It is recommended that people who will
   use it for data processing use the JSON file. The JSON file is updated every
@@ -78,6 +92,9 @@ looking for my website? go to
   No description provided.
 - [lisans (2)](https://github.com/ramazansancar/lisans) - No description
   provided.
+- [movie-web_movie-web (2)](https://github.com/ramazansancar/movie-web_movie-web)
+  ([homepage](https://movies.meghrathod.dev)) - A small web app for watching
+  movies and shows easily
 - [Next.js-Strapi-Blog-AlexTechNoir (2)](https://github.com/ramazansancar/Next.js-Strapi-Blog-AlexTechNoir)
   ([homepage](https://next-js-strapi-blog.vercel.app/)) - Static blog with
   Next.js + Strapi Headless CMS
@@ -150,24 +167,17 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (228)
+## Forks (222)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
-- [acikkaynak_musahit-harita-frontend](https://github.com/ramazansancar/acikkaynak_musahit-harita-frontend)
-  ([homepage](https://musahit-harita-frontend-git-stage-acikyazilim.vercel.app)) -
-  secim.gonullu.io frontend repo
-- [acikkaynak_secim-bot-telegram](https://github.com/ramazansancar/acikkaynak_secim-bot-telegram) -
+- [acikkaynak_calisma-mekanlari](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari)
+  ([homepage](https://calisma-mekanlari-app.vercel.app/)) - Çalışma mekanlarını
+  bu repository altında listeliyoruz
+- [acikyazilimagi_acikyazilimagi](https://github.com/ramazansancar/acikyazilimagi_acikyazilimagi) -
   No description provided.
-- [ahmetb-public-speaking](https://github.com/ramazansancar/ahmetb-public-speaking) -
-  @ahmetb's public speaking engagements & bio
-- [AhmetFurkanDEMIR_HepsiTrendTech](https://github.com/ramazansancar/AhmetFurkanDEMIR_HepsiTrendTech)
-  ([homepage](https://hepsitrend.tech/)) - The website of the Hepsitrend.tech
-  application written in Django.
-- [AidanWelch_OpenTrafficCamMap](https://github.com/ramazansancar/AidanWelch_OpenTrafficCamMap)
-  ([homepage](https://ramazansancar.github.io/AidanWelch_OpenTrafficCamMap/map.html)) -
-  A crowdsourced database of traffic cameras -
-  http://otc.armchairresearch.org/map
+- [AdguardTeam-AdguardFilters](https://github.com/ramazansancar/AdguardTeam-AdguardFilters)
+  ([homepage](https://adguard.com/)) - AdGuard Content Blocking Filters
 - [alicangunduz_tanismada-sohbet-tikanmasin](https://github.com/ramazansancar/alicangunduz_tanismada-sohbet-tikanmasin)
   ([homepage](https://flort-sorulari.vercel.app/)) - Tanışma sırasında sohbet
   duruyor soracak sorunuz kalmıyorsa sizin için geliştirdiğim çözüm.
@@ -337,9 +347,6 @@ looking for my website? go to
   channel name or topic
 - [movie-web_discord-bot](https://github.com/ramazansancar/movie-web_discord-bot) -
   Simple discord bot to work along-side movie-web
-- [movie-web_movie-web](https://github.com/ramazansancar/movie-web_movie-web)
-  ([homepage](https://movies.meghrathod.dev)) - A small web app for watching
-  movies and shows easily
 - [movie-web_native-app](https://github.com/ramazansancar/movie-web_native-app) -
   The native app version of movie-web
 - [mui-x](https://github.com/ramazansancar/mui-x)
@@ -519,13 +526,6 @@ looking for my website? go to
   tube videos on Android TV boxes
 - [yumod-chrome-extension](https://github.com/ramazansancar/yumod-chrome-extension) -
   Yumod Chrome Extension
-- [acikkaynak_calisma-mekanlari](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari)
-  ([homepage](https://calisma-mekanlari-app.vercel.app/)) - Çalışma mekanlarını
-  bu repository altında listeliyoruz
-- [acikyazilimagi_acikyazilimagi](https://github.com/ramazansancar/acikyazilimagi_acikyazilimagi) -
-  No description provided.
-- [AdguardTeam-AdguardFilters](https://github.com/ramazansancar/AdguardTeam-AdguardFilters)
-  ([homepage](https://adguard.com/)) - AdGuard Content Blocking Filters
 - [alexjustesen_speedtest-tracker](https://github.com/ramazansancar/alexjustesen_speedtest-tracker)
   ([homepage](https://speedtest-tracker.dev/)) - Speedtest Tracker is a
   self-hosted application that monitors the performance and uptime of your
