@@ -200,6 +200,11 @@ looking for my website? go to
 - [bulut-bilisimciler-senaryolar](https://github.com/ramazansancar/bulut-bilisimciler-senaryolar) -
   https://bulutbilisimciler.com sitesinde yayınlanan eğitim için oluşturulan
   senaryolar.
+- [cahitihac_kap-notifier](https://github.com/ramazansancar/cahitihac_kap-notifier) -
+  A server and client app that requests new disclosures published on KAP
+  (https://www.kap.org.tr/). New disclosures are updated on KAP every 3 minutes
+  which is a very long time in terms of stocks market. kap-notifier makes
+  requests every 3 seconds by default.
 - [CalendarMatrix](https://github.com/ramazansancar/CalendarMatrix) - EXTJS
   Enhanced Calendar Component for custom styled Calendar Grids. Supports
   Read-Only, Range Select, Multi-Select, Single Date Select
@@ -546,11 +551,6 @@ looking for my website? go to
   Principle of WinRAR key generation.
 - [Caglarsonmez_KAP_Scraper](https://github.com/ramazansancar/Caglarsonmez_KAP_Scraper) -
   Scraping kap.org.tr for Turkish corporation data
-- [cahitihac_kap-notifier](https://github.com/ramazansancar/cahitihac_kap-notifier) -
-  A server and client app that requests new disclosures published on KAP
-  (https://www.kap.org.tr/). New disclosures are updated on KAP every 3 minutes
-  which is a very long time in terms of stocks market. kap-notifier makes
-  requests every 3 seconds by default.
 - [chesslablab_website](https://github.com/ramazansancar/chesslablab_website)
   ([homepage](https://chesslablab.github.io/website/)) - Website intended to
   learn and play chess online.
