@@ -167,7 +167,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (222)
+## Forks (224)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -631,6 +631,12 @@ looking for my website? go to
 - [keyiflerolsun_Kekik-cloudstream](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
   ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
   Türkçe yayın yapan sitelere ait eklentiler
+- [keyiflerolsun_KekikStream](https://github.com/ramazansancar/keyiflerolsun_KekikStream)
+  ([homepage](http://keyiflerolsun.me/KekikStream/)) - terminal üzerinden medya
+  içeriği aramanızı ve VLC/MPV gibi popüler medya oynatıcılar aracılığıyla
+  doğrudan izlemenizi sağlayan modüler ve genişletilebilir bir bıdı bıdı
+- [keyiflerolsun_KekikStreamAPI](https://github.com/ramazansancar/keyiflerolsun_KekikStreamAPI) -
+  No description provided.
 - [keyiflerolsun_seyirTurk-Parser](https://github.com/ramazansancar/keyiflerolsun_seyirTurk-Parser) -
   Bu depo, seyirturk.net uygulamasından decompile edilerek çıkartılmış Java
   sınıfları ve scriptlerden oluşmaktadır.
