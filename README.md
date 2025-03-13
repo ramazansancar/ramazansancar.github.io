@@ -19,6 +19,11 @@ looking for my website? go to
   alışveriş yapılır? Nasıl Dolandırılmam? vs.
 - [Dexofuzzy2 (5)](https://github.com/ramazansancar/Dexofuzzy2) - No description
   provided.
+- [AndroidStringXmlTranslator (4)](https://github.com/ramazansancar/AndroidStringXmlTranslator)
+  ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
+  In order to make language translations more efficiently, I have a repo like
+  this.
+  https://raw.githack.com/ramazansancar/AndroidStringXmlTranslator/master/index.html
 - [IULecture (4)](https://github.com/ramazansancar/IULecture) - Istanbul
   University AUZEF Computer Programming and Graphic Design Lecture Notes and
   Information Repo.
@@ -34,11 +39,6 @@ looking for my website? go to
 - [.github (3)](https://github.com/ramazansancar/.github) - Sponsor button etc
 - [actuallyzefe-Amazon-Web-Scraping (3)](https://github.com/ramazansancar/actuallyzefe-Amazon-Web-Scraping) -
   No description provided.
-- [AndroidStringXmlTranslator (3)](https://github.com/ramazansancar/AndroidStringXmlTranslator)
-  ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
-  In order to make language translations more efficiently, I have a repo like
-  this.
-  https://raw.githack.com/ramazansancar/AndroidStringXmlTranslator/master/index.html
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
   ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
