@@ -7,12 +7,12 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (63)
+## Projects (64)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [ramazansancar (10)](https://github.com/ramazansancar/ramazansancar) - 🐲
+- [ramazansancar (11)](https://github.com/ramazansancar/ramazansancar) - 🐲
   GitHub Profile Readme
 - [Guvenli-Alisveris (7)](https://github.com/ramazansancar/Guvenli-Alisveris) -
   Güvenli Alışveriş yapmak için nelere dikkat etmelisiniz? Hangi sitelerden
@@ -39,6 +39,8 @@ looking for my website? go to
 - [.github (3)](https://github.com/ramazansancar/.github) - Sponsor button etc
 - [actuallyzefe-Amazon-Web-Scraping (3)](https://github.com/ramazansancar/actuallyzefe-Amazon-Web-Scraping) -
   No description provided.
+- [keyiflerolsun_IPTV_YenirMi (3)](https://github.com/ramazansancar/keyiflerolsun_IPTV_YenirMi) -
+  IPTV üzerine Kendime Notlar
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
   ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
@@ -84,8 +86,6 @@ looking for my website? go to
 - [kelimeci (2)](https://github.com/ramazansancar/kelimeci)
   ([homepage](http://cookingthecode.com/)) - yabancı dildeki kelimelerin
   öğrenilmesini kolaylaştıran araç
-- [keyiflerolsun_IPTV_YenirMi (2)](https://github.com/ramazansancar/keyiflerolsun_IPTV_YenirMi) -
-  IPTV üzerine Kendime Notlar
 - [KleiAccountsLocale (2)](https://github.com/ramazansancar/KleiAccountsLocale)
   ([homepage](https://accounts.klei.com)) - Klei Accounts Website Translations.
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs (2)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs) -
@@ -117,6 +117,8 @@ looking for my website? go to
   ([homepage](https://swisskyrepo.github.io/PayloadsAllTheThings/)) - A list of
   useful payloads and bypass for Web Application Security and Pentest/CTF
 - [turkiye-haritasi-svg (2)](https://github.com/ramazansancar/turkiye-haritasi-svg) -
+  No description provided.
+- [UzunMuhalefet_Legal-IPTV (2)](https://github.com/ramazansancar/UzunMuhalefet_Legal-IPTV) -
   No description provided.
 - [various-viewing-activity (2)](https://github.com/ramazansancar/various-viewing-activity) -
   No description provided.
@@ -331,6 +333,9 @@ looking for my website? go to
 - [Kartli-Yoklama-Aktaricisi](https://github.com/ramazansancar/Kartli-Yoklama-Aktaricisi) -
   Kartlı yoklama cihazı ile alınan yoklamaların birkaç tıklama ile öğrenci
   otomasyonuna aktarımına olanak sağlayan basit bir Chrome eklentisi.
+- [keyiflerolsun_Kekik-cloudstream](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
+  ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
+  Türkçe yayın yapan sitelere ait eklentiler
 - [KLU_Yemek](https://github.com/ramazansancar/KLU_Yemek) - Kırklareli
   Üniversitesi Yemek Listesi Android Uygulaması
 - [KodBilenBotTwitch](https://github.com/ramazansancar/KodBilenBotTwitch) - A
@@ -499,8 +504,6 @@ looking for my website? go to
   ([homepage](https://competitions.gathering.org)) - Frontend for UNICORN
 - [uptime-kuma](https://github.com/ramazansancar/uptime-kuma)
   ([homepage](https://uptime.kuma.pet)) - A fancy self-hosted monitoring tool
-- [UzunMuhalefet_Legal-IPTV](https://github.com/ramazansancar/UzunMuhalefet_Legal-IPTV) -
-  No description provided.
 - [v-down](https://github.com/ramazansancar/v-down) - Download file to web
 - [Venfu-user-twitch-bot](https://github.com/ramazansancar/Venfu-user-twitch-bot) -
   No description provided.
@@ -563,6 +566,9 @@ looking for my website? go to
   Check if people follows you back on Instagram.
 - [dochne_wappalyzer](https://github.com/ramazansancar/dochne_wappalyzer) - The
   last commit of Wappalyzer before it went private
+- [dovecoteescapee_ByeDPIAndroid](https://github.com/ramazansancar/dovecoteescapee_ByeDPIAndroid)
+  ([homepage](https://ntc.party/c/community-software/byedpi)) - App to bypass
+  censorship on Android
 - [DynastyRDP](https://github.com/ramazansancar/DynastyRDP) - No description
   provided.
 - [Eisa01_FreshRSS---Auto-Refresh-Extension](https://github.com/ramazansancar/Eisa01_FreshRSS---Auto-Refresh-Extension) -
@@ -628,9 +634,6 @@ looking for my website? go to
   Turkiye
 - [keyiflerolsun_.dotfiles](https://github.com/ramazansancar/keyiflerolsun_.dotfiles) -
   /etc/keyiflerolsun
-- [keyiflerolsun_Kekik-cloudstream](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
-  ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
-  Türkçe yayın yapan sitelere ait eklentiler
 - [keyiflerolsun_KekikStream](https://github.com/ramazansancar/keyiflerolsun_KekikStream)
   ([homepage](http://keyiflerolsun.me/KekikStream/)) - terminal üzerinden medya
   içeriği aramanızı ve VLC/MPV gibi popüler medya oynatıcılar aracılığıyla
