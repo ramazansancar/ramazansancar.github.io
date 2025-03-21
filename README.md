@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (64)
+## Projects (65)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -144,6 +144,8 @@ looking for my website? go to
   provided.
 - [holiday-calendar (1)](https://github.com/ramazansancar/holiday-calendar) - No
   description provided.
+- [KLU_Yemek (1)](https://github.com/ramazansancar/KLU_Yemek) - Kırklareli
+  Üniversitesi Yemek Listesi Android Uygulaması
 - [myagizmaktav_simple-cargo-tracker (1)](https://github.com/ramazansancar/myagizmaktav_simple-cargo-tracker) -
   No description provided.
 - [twitch-moderation-bot-Venfu (1)](https://github.com/ramazansancar/twitch-moderation-bot-Venfu) -
@@ -169,7 +171,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (226)
+## Forks (225)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -336,8 +338,6 @@ looking for my website? go to
 - [keyiflerolsun_Kekik-cloudstream](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
   ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
   Türkçe yayın yapan sitelere ait eklentiler
-- [KLU_Yemek](https://github.com/ramazansancar/KLU_Yemek) - Kırklareli
-  Üniversitesi Yemek Listesi Android Uygulaması
 - [KodBilenBotTwitch](https://github.com/ramazansancar/KodBilenBotTwitch) - A
   Twitch bot for twitch.tv/kodbilen
 - [kodluyoruz-discord-register-bot](https://github.com/ramazansancar/kodluyoruz-discord-register-bot) -
