@@ -171,7 +171,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (228)
+## Forks (229)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -597,6 +597,9 @@ looking for my website? go to
 - [gethomepage_homepage](https://github.com/ramazansancar/gethomepage_homepage)
   ([homepage](https://gethomepage.dev)) - A highly customizable homepage (or
   startpage / application dashboard) with Docker and service API integrations.
+- [GitLatte_patr0n](https://github.com/ramazansancar/GitLatte_patr0n)
+  ([homepage](https://raw.githack.com/ramazansancar/GitLatte_patr0n/site/index.html)) -
+  URL extraction from a text inside or url page
 - [gnojus_wedl-go](https://github.com/ramazansancar/gnojus_wedl-go) - Small
   command line utility to download from https://wetransfer.com
 - [internetarchive_wayback-machine-webextension](https://github.com/ramazansancar/internetarchive_wayback-machine-webextension) -
