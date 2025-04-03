@@ -349,8 +349,6 @@ looking for my website? go to
   of neat projects made in Turkey
 - [MarketBot](https://github.com/ramazansancar/MarketBot) - Smartphone
   marketplace scraper
-- [mattcg_language-subtag-registry](https://github.com/ramazansancar/mattcg_language-subtag-registry) -
-  BCP 47/IANA language subtag data in JSON format.
 - [member-counter-bot](https://github.com/ramazansancar/member-counter-bot)
   ([homepage](https://www.membercounter.bot)) - Member Counter is a Discord bot
   which lets you easily display counts and other dynamic information in a
@@ -665,6 +663,8 @@ looking for my website? go to
   population, etc. 🌎
 - [Materialious_Materialious](https://github.com/ramazansancar/Materialious_Materialious)
   ([homepage](https://materialio.us)) - Modern material design for Invidious.
+- [mattcg_language-subtag-registry](https://github.com/ramazansancar/mattcg_language-subtag-registry) -
+  BCP 47/IANA language subtag data in JSON format.
 - [mautic_mautic](https://github.com/ramazansancar/mautic_mautic)
   ([homepage](https://www.mautic.org)) - Mautic: Open Source Marketing
   Automation Software.
