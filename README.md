@@ -50,6 +50,8 @@ looking for my website? go to
   ([homepage](https://www.ramazansancar.com.tr/radyo/)) - JSON ile Radyo Player
 - [spotify-song-recommender (3)](https://github.com/ramazansancar/spotify-song-recommender)
   ([homepage](https://spotify.ramazansancar.com.tr/)) - No description provided.
+- [UzunMuhalefet_Legal-IPTV (3)](https://github.com/ramazansancar/UzunMuhalefet_Legal-IPTV) -
+  No description provided.
 - [acikkaynak_musahit-harita-frontend (2)](https://github.com/ramazansancar/acikkaynak_musahit-harita-frontend)
   ([homepage](https://musahit-harita-frontend-git-stage-acikyazilim.vercel.app)) -
   secim.gonullu.io frontend repo
@@ -117,8 +119,6 @@ looking for my website? go to
   ([homepage](https://swisskyrepo.github.io/PayloadsAllTheThings/)) - A list of
   useful payloads and bypass for Web Application Security and Pentest/CTF
 - [turkiye-haritasi-svg (2)](https://github.com/ramazansancar/turkiye-haritasi-svg) -
-  No description provided.
-- [UzunMuhalefet_Legal-IPTV (2)](https://github.com/ramazansancar/UzunMuhalefet_Legal-IPTV) -
   No description provided.
 - [various-viewing-activity (2)](https://github.com/ramazansancar/various-viewing-activity) -
   No description provided.
