@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (65)
+## Projects (66)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -88,6 +88,9 @@ looking for my website? go to
 - [kelimeci (2)](https://github.com/ramazansancar/kelimeci)
   ([homepage](http://cookingthecode.com/)) - yabancı dildeki kelimelerin
   öğrenilmesini kolaylaştıran araç
+- [keyiflerolsun_Kekik-cloudstream (2)](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
+  ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
+  Türkçe yayın yapan sitelere ait eklentiler
 - [KleiAccountsLocale (2)](https://github.com/ramazansancar/KleiAccountsLocale)
   ([homepage](https://accounts.klei.com)) - Klei Accounts Website Translations.
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs (2)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs) -
@@ -171,7 +174,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (229)
+## Forks (228)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -335,9 +338,6 @@ looking for my website? go to
 - [Kartli-Yoklama-Aktaricisi](https://github.com/ramazansancar/Kartli-Yoklama-Aktaricisi) -
   Kartlı yoklama cihazı ile alınan yoklamaların birkaç tıklama ile öğrenci
   otomasyonuna aktarımına olanak sağlayan basit bir Chrome eklentisi.
-- [keyiflerolsun_Kekik-cloudstream](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
-  ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
-  Türkçe yayın yapan sitelere ait eklentiler
 - [KodBilenBotTwitch](https://github.com/ramazansancar/KodBilenBotTwitch) - A
   Twitch bot for twitch.tv/kodbilen
 - [kodluyoruz-discord-register-bot](https://github.com/ramazansancar/kodluyoruz-discord-register-bot) -
