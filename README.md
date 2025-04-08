@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (66)
+## Projects (67)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -165,6 +165,9 @@ looking for my website? go to
   data and checks its current status daily
 - [cloudflareDnsUpdater (0)](https://github.com/ramazansancar/cloudflareDnsUpdater) -
   No description provided.
+- [GitLatte_patr0n (0)](https://github.com/ramazansancar/GitLatte_patr0n)
+  ([homepage](https://raw.githack.com/ramazansancar/GitLatte_patr0n/site/index.html)) -
+  URL extraction from a text inside or url page
 - [grasspow-TelegramStickersDownloadBot (0)](https://github.com/ramazansancar/grasspow-TelegramStickersDownloadBot) -
   No description provided.
 - [planningListApi (0)](https://github.com/ramazansancar/planningListApi)
@@ -174,7 +177,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (229)
+## Forks (228)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -595,9 +598,6 @@ looking for my website? go to
 - [gethomepage_homepage](https://github.com/ramazansancar/gethomepage_homepage)
   ([homepage](https://gethomepage.dev)) - A highly customizable homepage (or
   startpage / application dashboard) with Docker and service API integrations.
-- [GitLatte_patr0n](https://github.com/ramazansancar/GitLatte_patr0n)
-  ([homepage](https://raw.githack.com/ramazansancar/GitLatte_patr0n/site/index.html)) -
-  URL extraction from a text inside or url page
 - [gnojus_wedl-go](https://github.com/ramazansancar/gnojus_wedl-go) - Small
   command line utility to download from https://wetransfer.com
 - [internetarchive_wayback-machine-webextension](https://github.com/ramazansancar/internetarchive_wayback-machine-webextension) -
