@@ -12,21 +12,21 @@ looking for my website? go to
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [ramazansancar (11)](https://github.com/ramazansancar/ramazansancar) - 🐲
+- [ramazansancar (12)](https://github.com/ramazansancar/ramazansancar) - 🐲
   GitHub Profile Readme
 - [Guvenli-Alisveris (7)](https://github.com/ramazansancar/Guvenli-Alisveris) -
   Güvenli Alışveriş yapmak için nelere dikkat etmelisiniz? Hangi sitelerden
   alışveriş yapılır? Nasıl Dolandırılmam? vs.
 - [Dexofuzzy2 (5)](https://github.com/ramazansancar/Dexofuzzy2) - No description
   provided.
+- [IULecture (5)](https://github.com/ramazansancar/IULecture) - Istanbul
+  University AUZEF Computer Programming and Graphic Design Lecture Notes and
+  Information Repo.
 - [AndroidStringXmlTranslator (4)](https://github.com/ramazansancar/AndroidStringXmlTranslator)
   ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
   In order to make language translations more efficiently, I have a repo like
   this.
   https://raw.githack.com/ramazansancar/AndroidStringXmlTranslator/master/index.html
-- [IULecture (4)](https://github.com/ramazansancar/IULecture) - Istanbul
-  University AUZEF Computer Programming and Graphic Design Lecture Notes and
-  Information Repo.
 - [netflix-viewing-activity (4)](https://github.com/ramazansancar/netflix-viewing-activity) -
   :tv: Download your Netflix account viewing activity in JSON or CSV.
 - [notes (4)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
