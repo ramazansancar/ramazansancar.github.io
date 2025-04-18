@@ -177,7 +177,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (228)
+## Forks (229)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -731,6 +731,10 @@ looking for my website? go to
   🏠 Portfolio (2023)
 - [Star-nikki_CogniVisage](https://github.com/ramazansancar/Star-nikki_CogniVisage) -
   No description provided.
+- [strapi_strapi](https://github.com/ramazansancar/strapi_strapi)
+  ([homepage](https://strapi.io)) - 🚀 Strapi is the leading open-source
+  headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and
+  developer-first.
 - [syno-community_arpl-i18n](https://github.com/ramazansancar/syno-community_arpl-i18n)
   ([homepage](https://github.com/syno-community/rr)) - Automated Redpill Loader
 - [thomiceli_opengist](https://github.com/ramazansancar/thomiceli_opengist)
