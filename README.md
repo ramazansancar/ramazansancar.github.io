@@ -177,7 +177,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (229)
+## Forks (230)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -600,6 +600,10 @@ looking for my website? go to
   startpage / application dashboard) with Docker and service API integrations.
 - [gnojus_wedl-go](https://github.com/ramazansancar/gnojus_wedl-go) - Small
   command line utility to download from https://wetransfer.com
+- [gosom_google-maps-scraper](https://github.com/ramazansancar/gosom_google-maps-scraper) -
+  scrape data data from Google Maps. Extracts data such as the name, address,
+  phone number, website URL, rating, reviews number, latitude and longitude,
+  reviews,email and more for each place
 - [internetarchive_wayback-machine-webextension](https://github.com/ramazansancar/internetarchive_wayback-machine-webextension) -
   A web browser extension for Chrome, Firefox, Edge, and Safari 14.
 - [iptv-org_database](https://github.com/ramazansancar/iptv-org_database)
