@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (67)
+## Projects (68)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -157,6 +157,8 @@ looking for my website? go to
   description provided.
 - [website-homepage (1)](https://github.com/ramazansancar/website-homepage) - No
   description provided.
+- [yilmazev_protesto-api (1)](https://github.com/ramazansancar/yilmazev_protesto-api) -
+  No description provided.
 - [btk-bXXX (0)](https://github.com/ramazansancar/btk-bXXX) - BTK, Numara
   Taşınabilirliği Yönlendirme Kodları (BXXX)
 - [btk-yer_saglayici (0)](https://github.com/ramazansancar/btk-yer_saglayici)
@@ -177,7 +179,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (230)
+## Forks (229)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -534,8 +536,6 @@ looking for my website? go to
   ([homepage](https://protesto.yilmazev.dev)) - Türkiye’deki protestoları anlık
   olarak takip edin. Şehir seçerek o bölgedeki gösterilerle ilgili canlı
   tweetleri görüntüleyin.
-- [yilmazev_protesto-api](https://github.com/ramazansancar/yilmazev_protesto-api) -
-  No description provided.
 - [yuliskov_SmartTubeNext](https://github.com/ramazansancar/yuliskov_SmartTubeNext)
   ([homepage](https://www.patreon.com/smarttube)) - Ad free app for watching
   tube videos on Android TV boxes
