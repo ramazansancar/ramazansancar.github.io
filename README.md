@@ -179,7 +179,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (229)
+## Forks (230)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -654,6 +654,9 @@ looking for my website? go to
 - [keyiflerolsun_seyirTurk-Parser](https://github.com/ramazansancar/keyiflerolsun_seyirTurk-Parser) -
   Bu depo, seyirturk.net uygulamasından decompile edilerek çıkartılmış Java
   sınıfları ve scriptlerden oluşmaktadır.
+- [keyiflerolsun_ythls-FastAPI](https://github.com/ramazansancar/keyiflerolsun_ythls-FastAPI)
+  ([homepage](https://ythls.kekikakademi.org/youtube)) - Creates a permanent
+  link for the live feed (HLS/m3u8) of a Youtube channel or video
 - [kticoder_Telegram-Diz](https://github.com/ramazansancar/kticoder_Telegram-Diz) -
   Bir kanal yada gruptaki herşeyi dızlayın.... 🐍
 - [LayeredStudio-whoiser](https://github.com/ramazansancar/LayeredStudio-whoiser) -
