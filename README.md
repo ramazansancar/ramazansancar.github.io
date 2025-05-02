@@ -131,6 +131,10 @@ looking for my website? go to
 - [WebStats (2)](https://github.com/ramazansancar/WebStats) - WebStats Script v2
 - [zumrudu-anka (2)](https://github.com/ramazansancar/zumrudu-anka)
   ([homepage](https://zumrudu-anka.github.io/)) - 🐲 GitHub Profile Readme
+- [btk-yer_saglayici (1)](https://github.com/ramazansancar/btk-yer_saglayici)
+  ([homepage](https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi)) -
+  Software that retrieves BTK 'Commercial Service Providers Hosting Provider'
+  data and checks its current status daily
 - [CS50x-Fellow-Basvuru-Islemleri (1)](https://github.com/ramazansancar/CS50x-Fellow-Basvuru-Islemleri)
   ([homepage](https://blog.ramazansancar.com.tr/)) - Kodluyoruz CS50x 'de gelen
   başvuruları düzenleme, Toplu mail gönderme gibi işlemleri çok daha kolay
@@ -161,10 +165,6 @@ looking for my website? go to
   No description provided.
 - [btk-bXXX (0)](https://github.com/ramazansancar/btk-bXXX) - BTK, Numara
   Taşınabilirliği Yönlendirme Kodları (BXXX)
-- [btk-yer_saglayici (0)](https://github.com/ramazansancar/btk-yer_saglayici)
-  ([homepage](https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi)) -
-  Software that retrieves BTK 'Commercial Service Providers Hosting Provider'
-  data and checks its current status daily
 - [cloudflareDnsUpdater (0)](https://github.com/ramazansancar/cloudflareDnsUpdater) -
   No description provided.
 - [GitLatte_patr0n (0)](https://github.com/ramazansancar/GitLatte_patr0n)
