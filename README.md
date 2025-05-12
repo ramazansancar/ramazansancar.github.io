@@ -74,6 +74,10 @@ looking for my website? go to
   use it for data processing use the JSON file. The JSON file is updated every
   every day at midnight (00:00) for UTC. The data is taken from the site Anıt
   Sayaç.
+- [btk-yer_saglayici (2)](https://github.com/ramazansancar/btk-yer_saglayici)
+  ([homepage](https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi)) -
+  Software that retrieves BTK 'Commercial Service Providers Hosting Provider'
+  data and checks its current status daily
 - [canli-kameralar (2)](https://github.com/ramazansancar/canli-kameralar) -
   Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [deneme (2)](https://github.com/ramazansancar/deneme) - deneme
@@ -131,10 +135,6 @@ looking for my website? go to
 - [WebStats (2)](https://github.com/ramazansancar/WebStats) - WebStats Script v2
 - [zumrudu-anka (2)](https://github.com/ramazansancar/zumrudu-anka)
   ([homepage](https://zumrudu-anka.github.io/)) - 🐲 GitHub Profile Readme
-- [btk-yer_saglayici (1)](https://github.com/ramazansancar/btk-yer_saglayici)
-  ([homepage](https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi)) -
-  Software that retrieves BTK 'Commercial Service Providers Hosting Provider'
-  data and checks its current status daily
 - [CS50x-Fellow-Basvuru-Islemleri (1)](https://github.com/ramazansancar/CS50x-Fellow-Basvuru-Islemleri)
   ([homepage](https://blog.ramazansancar.com.tr/)) - Kodluyoruz CS50x 'de gelen
   başvuruları düzenleme, Toplu mail gönderme gibi işlemleri çok daha kolay
