@@ -22,14 +22,14 @@ looking for my website? go to
 - [IULecture (5)](https://github.com/ramazansancar/IULecture) - Istanbul
   University AUZEF Computer Programming and Graphic Design Lecture Notes and
   Information Repo.
+- [keyiflerolsun_Kekik-cloudstream (5)](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
+  ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
+  Türkçe yayın yapan sitelere ait eklentiler
 - [AndroidStringXmlTranslator (4)](https://github.com/ramazansancar/AndroidStringXmlTranslator)
   ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
   In order to make language translations more efficiently, I have a repo like
   this.
   https://raw.githack.com/ramazansancar/AndroidStringXmlTranslator/master/index.html
-- [keyiflerolsun_Kekik-cloudstream (4)](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
-  ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
-  Türkçe yayın yapan sitelere ait eklentiler
 - [netflix-viewing-activity (4)](https://github.com/ramazansancar/netflix-viewing-activity) -
   :tv: Download your Netflix account viewing activity in JSON or CSV.
 - [notes (4)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
@@ -402,8 +402,6 @@ looking for my website? go to
   ([homepage](http://owntracks.org)) - OwnTracks Android App
 - [owntracks_frontend](https://github.com/ramazansancar/owntracks_frontend) - 🌍
   Web interface for OwnTracks built with Vue.js
-- [patr0nq_link](https://github.com/ramazansancar/patr0nq_link) - No description
-  provided.
 - [payu](https://github.com/ramazansancar/payu)
   ([homepage](https://ingameltd.github.io/payu/)) - A typesafe PayU client for
   NodeJS
@@ -721,6 +719,8 @@ looking for my website? go to
   Bilgisayar Ağları Ders Notları
 - [OzgeOzkaya_AnitSayac](https://github.com/ramazansancar/OzgeOzkaya_AnitSayac) -
   No description provided.
+- [patr0nq_link](https://github.com/ramazansancar/patr0nq_link) - No description
+  provided.
 - [pi-hole_docs](https://github.com/ramazansancar/pi-hole_docs)
   ([homepage](https://docs.pi-hole.net/)) - The official Pi-hole documentation
 - [qeeqbox_social-analyzer](https://github.com/ramazansancar/qeeqbox_social-analyzer) -
