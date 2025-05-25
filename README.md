@@ -17,14 +17,14 @@ looking for my website? go to
 - [Guvenli-Alisveris (7)](https://github.com/ramazansancar/Guvenli-Alisveris) -
   Güvenli Alışveriş yapmak için nelere dikkat etmelisiniz? Hangi sitelerden
   alışveriş yapılır? Nasıl Dolandırılmam? vs.
+- [keyiflerolsun_Kekik-cloudstream (6)](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
+  ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
+  Türkçe yayın yapan sitelere ait eklentiler
 - [Dexofuzzy2 (5)](https://github.com/ramazansancar/Dexofuzzy2) - No description
   provided.
 - [IULecture (5)](https://github.com/ramazansancar/IULecture) - Istanbul
   University AUZEF Computer Programming and Graphic Design Lecture Notes and
   Information Repo.
-- [keyiflerolsun_Kekik-cloudstream (5)](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
-  ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
-  Türkçe yayın yapan sitelere ait eklentiler
 - [AndroidStringXmlTranslator (4)](https://github.com/ramazansancar/AndroidStringXmlTranslator)
   ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
   In order to make language translations more efficiently, I have a repo like
@@ -37,8 +37,6 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/spn2)) - The SPN2 JS Library
   provides an easy-to-use interface to interact with the Save Page Now 2 (SPN2)
   API, which is part of the Internet Archive's Wayback Machine service.
-- [UzunMuhalefet_Legal-IPTV (4)](https://github.com/ramazansancar/UzunMuhalefet_Legal-IPTV) -
-  No description provided.
 - [weatherApi (4)](https://github.com/ramazansancar/weatherApi)
   ([homepage](https://weatherapi.cyclic.app/)) - Open Weather API Backend
 - [.github (3)](https://github.com/ramazansancar/.github) - Sponsor button etc
@@ -55,6 +53,8 @@ looking for my website? go to
   ([homepage](https://www.ramazansancar.com.tr/radyo/)) - JSON ile Radyo Player
 - [spotify-song-recommender (3)](https://github.com/ramazansancar/spotify-song-recommender)
   ([homepage](https://spotify.ramazansancar.com.tr/)) - No description provided.
+- [UzunMuhalefet_Legal-IPTV (3)](https://github.com/ramazansancar/UzunMuhalefet_Legal-IPTV) -
+  No description provided.
 - [acikkaynak_musahit-harita-frontend (2)](https://github.com/ramazansancar/acikkaynak_musahit-harita-frontend)
   ([homepage](https://musahit-harita-frontend-git-stage-acikyazilim.vercel.app)) -
   secim.gonullu.io frontend repo
