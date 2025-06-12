@@ -42,6 +42,10 @@ looking for my website? go to
 - [.github (3)](https://github.com/ramazansancar/.github) - Sponsor button etc
 - [actuallyzefe-Amazon-Web-Scraping (3)](https://github.com/ramazansancar/actuallyzefe-Amazon-Web-Scraping) -
   No description provided.
+- [btk-yer_saglayici (3)](https://github.com/ramazansancar/btk-yer_saglayici)
+  ([homepage](https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi)) -
+  Software that retrieves BTK 'Commercial Service Providers Hosting Provider'
+  data and checks its current status daily
 - [keyiflerolsun_IPTV_YenirMi (3)](https://github.com/ramazansancar/keyiflerolsun_IPTV_YenirMi) -
   IPTV üzerine Kendime Notlar
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
@@ -74,10 +78,6 @@ looking for my website? go to
   use it for data processing use the JSON file. The JSON file is updated every
   every day at midnight (00:00) for UTC. The data is taken from the site Anıt
   Sayaç.
-- [btk-yer_saglayici (2)](https://github.com/ramazansancar/btk-yer_saglayici)
-  ([homepage](https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi)) -
-  Software that retrieves BTK 'Commercial Service Providers Hosting Provider'
-  data and checks its current status daily
 - [canli-kameralar (2)](https://github.com/ramazansancar/canli-kameralar) -
   Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [deneme (2)](https://github.com/ramazansancar/deneme) - deneme
