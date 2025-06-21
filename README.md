@@ -17,14 +17,14 @@ looking for my website? go to
 - [Guvenli-Alisveris (7)](https://github.com/ramazansancar/Guvenli-Alisveris) -
   Güvenli Alışveriş yapmak için nelere dikkat etmelisiniz? Hangi sitelerden
   alışveriş yapılır? Nasıl Dolandırılmam? vs.
+- [keyiflerolsun_Kekik-cloudstream (6)](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
+  ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
+  Türkçe yayın yapan sitelere ait eklentiler
 - [Dexofuzzy2 (5)](https://github.com/ramazansancar/Dexofuzzy2) - No description
   provided.
 - [IULecture (5)](https://github.com/ramazansancar/IULecture) - Istanbul
   University AUZEF Computer Programming and Graphic Design Lecture Notes and
   Information Repo.
-- [keyiflerolsun_Kekik-cloudstream (5)](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
-  ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
-  Türkçe yayın yapan sitelere ait eklentiler
 - [AndroidStringXmlTranslator (4)](https://github.com/ramazansancar/AndroidStringXmlTranslator)
   ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
   In order to make language translations more efficiently, I have a repo like
