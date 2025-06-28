@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (70)
+## Projects (69)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -46,8 +46,6 @@ looking for my website? go to
   ([homepage](https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi)) -
   Software that retrieves BTK 'Commercial Service Providers Hosting Provider'
   data and checks its current status daily
-- [keyiflerolsun_IPTV_YenirMi (3)](https://github.com/ramazansancar/keyiflerolsun_IPTV_YenirMi) -
-  IPTV üzerine Kendime Notlar
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
   ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
