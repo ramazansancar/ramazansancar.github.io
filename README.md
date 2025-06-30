@@ -30,6 +30,10 @@ looking for my website? go to
   In order to make language translations more efficiently, I have a repo like
   this.
   https://raw.githack.com/ramazansancar/AndroidStringXmlTranslator/master/index.html
+- [btk-yer_saglayici (4)](https://github.com/ramazansancar/btk-yer_saglayici)
+  ([homepage](https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi)) -
+  Software that retrieves BTK 'Commercial Service Providers Hosting Provider'
+  data and checks its current status daily
 - [netflix-viewing-activity (4)](https://github.com/ramazansancar/netflix-viewing-activity) -
   :tv: Download your Netflix account viewing activity in JSON or CSV.
 - [notes (4)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
@@ -42,10 +46,6 @@ looking for my website? go to
 - [.github (3)](https://github.com/ramazansancar/.github) - Sponsor button etc
 - [actuallyzefe-Amazon-Web-Scraping (3)](https://github.com/ramazansancar/actuallyzefe-Amazon-Web-Scraping) -
   No description provided.
-- [btk-yer_saglayici (3)](https://github.com/ramazansancar/btk-yer_saglayici)
-  ([homepage](https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi)) -
-  Software that retrieves BTK 'Commercial Service Providers Hosting Provider'
-  data and checks its current status daily
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
   ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
@@ -405,8 +405,6 @@ looking for my website? go to
   ([homepage](http://owntracks.org)) - OwnTracks Android App
 - [owntracks_frontend](https://github.com/ramazansancar/owntracks_frontend) - 🌍
   Web interface for OwnTracks built with Vue.js
-- [patr0nq_link](https://github.com/ramazansancar/patr0nq_link) - No description
-  provided.
 - [payu](https://github.com/ramazansancar/payu)
   ([homepage](https://ingameltd.github.io/payu/)) - A typesafe PayU client for
   NodeJS
@@ -724,6 +722,8 @@ looking for my website? go to
   Bilgisayar Ağları Ders Notları
 - [OzgeOzkaya_AnitSayac](https://github.com/ramazansancar/OzgeOzkaya_AnitSayac) -
   No description provided.
+- [patr0nq_link](https://github.com/ramazansancar/patr0nq_link) - No description
+  provided.
 - [pi-hole_docs](https://github.com/ramazansancar/pi-hole_docs)
   ([homepage](https://docs.pi-hole.net/)) - The official Pi-hole documentation
 - [qeeqbox_social-analyzer](https://github.com/ramazansancar/qeeqbox_social-analyzer) -
