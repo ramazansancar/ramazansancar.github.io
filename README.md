@@ -182,7 +182,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (232)
+## Forks (233)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -737,6 +737,8 @@ looking for my website? go to
   description provided.
 - [samogod_mobese](https://github.com/ramazansancar/samogod_mobese) - Advanced
   object tracking system in Turkey Live CCTV footages.
+- [semihkeskindev_captcha-solver](https://github.com/ramazansancar/semihkeskindev_captcha-solver) -
+  captcha solver
 - [smeijer_leaflet-geosearch](https://github.com/ramazansancar/smeijer_leaflet-geosearch)
   ([homepage](https://smeijer.github.io/leaflet-geosearch/)) - A
   geocoding/address-lookup library supporting various api providers.
