@@ -182,7 +182,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (233)
+## Forks (234)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -714,6 +714,8 @@ looking for my website? go to
   description provided.
 - [nuxt_devtools](https://github.com/ramazansancar/nuxt_devtools)
   ([homepage](https://devtools.nuxt.com)) - Unleash Nuxt Developer Experience
+- [nzo66_tvproxy](https://github.com/ramazansancar/nzo66_tvproxy)
+  ([homepage](https://nzo66-tvproxy.hf.space)) - FREE PROXY
 - [OpenRailwayMap_OpenRailwayMap](https://github.com/ramazansancar/OpenRailwayMap_OpenRailwayMap)
   ([homepage](http://www.openrailwaymap.org/)) - An OpenStreetMap-based project
   for creating a map of the world's railway infrastructure.
