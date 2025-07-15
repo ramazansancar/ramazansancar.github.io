@@ -182,7 +182,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (234)
+## Forks (235)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -710,6 +710,9 @@ looking for my website? go to
   MLdonkey, aMule, rTorrent, Transmission and giFT.
 - [myagizmaktav_google-web-index-api-docker](https://github.com/ramazansancar/myagizmaktav_google-web-index-api-docker) -
   No description provided.
+- [neoascetic_rawgithack](https://github.com/ramazansancar/neoascetic_rawgithack)
+  ([homepage](https://raw.githack.com)) - Serves files from github, bitbucket
+  and gitlab, but with the correct content types
 - [nightznero_NIGHTZNERO-Filter-Lists](https://github.com/ramazansancar/nightznero_NIGHTZNERO-Filter-Lists) -
   No description provided.
 - [ntblk_dns-doh](https://github.com/ramazansancar/ntblk_dns-doh) - No
