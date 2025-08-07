@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (70)
+## Projects (69)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -144,9 +144,6 @@ looking for my website? go to
 - [github-slideshow (1)](https://github.com/ramazansancar/github-slideshow)
   ([homepage](https://lab.github.com/githubtraining/introduction-to-github)) - A
   robot powered training repository :robot:
-- [hello-world-vercel-nextjs-canary (1)](https://github.com/ramazansancar/hello-world-vercel-nextjs-canary)
-  ([homepage](hello-world-vercel-nextjs-canary.vercel.app)) - No description
-  provided.
 - [holiday-calendar (1)](https://github.com/ramazansancar/holiday-calendar) - No
   description provided.
 - [KLU_Yemek (1)](https://github.com/ramazansancar/KLU_Yemek) - Kırklareli
