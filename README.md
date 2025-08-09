@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (69)
+## Projects (70)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -57,6 +57,9 @@ looking for my website? go to
   ([homepage](https://spotify.ramazansancar.com.tr/)) - No description provided.
 - [UzunMuhalefet_Legal-IPTV (3)](https://github.com/ramazansancar/UzunMuhalefet_Legal-IPTV) -
   No description provided.
+- [acikkaynak_calisma-mekanlari (2)](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari)
+  ([homepage](https://calisma-mekanlari-app.vercel.app/)) - Çalışma mekanlarını
+  bu repository altında listeliyoruz
 - [acikkaynak_musahit-harita-frontend (2)](https://github.com/ramazansancar/acikkaynak_musahit-harita-frontend)
   ([homepage](https://musahit-harita-frontend-git-stage-acikyazilim.vercel.app)) -
   secim.gonullu.io frontend repo
@@ -182,13 +185,10 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (235)
+## Forks (234)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
-- [acikkaynak_calisma-mekanlari](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari)
-  ([homepage](https://calisma-mekanlari-app.vercel.app/)) - Çalışma mekanlarını
-  bu repository altında listeliyoruz
 - [acikyazilimagi_acikyazilimagi](https://github.com/ramazansancar/acikyazilimagi_acikyazilimagi) -
   No description provided.
 - [AdguardTeam-AdguardFilters](https://github.com/ramazansancar/AdguardTeam-AdguardFilters)
