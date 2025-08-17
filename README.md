@@ -12,7 +12,7 @@ looking for my website? go to
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [ramazansancar (12)](https://github.com/ramazansancar/ramazansancar) - 🐲
+- [ramazansancar (13)](https://github.com/ramazansancar/ramazansancar) - 🐲
   GitHub Profile Readme
 - [Guvenli-Alisveris (7)](https://github.com/ramazansancar/Guvenli-Alisveris) -
   Güvenli Alışveriş yapmak için nelere dikkat etmelisiniz? Hangi sitelerden
@@ -196,6 +196,9 @@ looking for my website? go to
 - [alicangunduz_tanismada-sohbet-tikanmasin](https://github.com/ramazansancar/alicangunduz_tanismada-sohbet-tikanmasin)
   ([homepage](https://flort-sorulari.vercel.app/)) - Tanışma sırasında sohbet
   duruyor soracak sorunuz kalmıyorsa sizin için geliştirdiğim çözüm.
+- [atomicptr_crab](https://github.com/ramazansancar/atomicptr_crab) - 🦀 A
+  versatile tool to crawl dozens of URLs from a given source, like a sitemap or
+  an URL list.
 - [awesome-vue](https://github.com/ramazansancar/awesome-vue) - 🎉 A curated
   list of awesome things related to Vue.js
 - [baris-akarsu-ile-anilar.github.io](https://github.com/ramazansancar/baris-akarsu-ile-anilar.github.io)
@@ -555,9 +558,6 @@ looking for my website? go to
 - [ArdaGnsrn_steam-try-chrome](https://github.com/ramazansancar/ArdaGnsrn_steam-try-chrome)
   ([homepage](https://chromewebstore.google.com/detail/gbheeajjjabflipjbaofaogejecilili)) -
   Steam fiyatlarını TL olarak görüntülemek için Google Chrome eklentisi.
-- [atomicptr_crab](https://github.com/ramazansancar/atomicptr_crab) - 🦀 A
-  versatile tool to crawl dozens of URLs from a given source, like a sitemap or
-  an URL list.
 - [ats-backend](https://github.com/ramazansancar/ats-backend) - This is the
   backend repository of Attendance Tracking System of Team Aces for SIH 2022.
 - [ayetkin_cross-check](https://github.com/ramazansancar/ayetkin_cross-check) -
