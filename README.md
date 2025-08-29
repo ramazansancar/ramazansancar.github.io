@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (70)
+## Projects (71)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -168,6 +168,8 @@ looking for my website? go to
   Taşınabilirliği Yönlendirme Kodları (BXXX)
 - [cloudflareDnsUpdater (0)](https://github.com/ramazansancar/cloudflareDnsUpdater) -
   No description provided.
+- [dns-check-go (0)](https://github.com/ramazansancar/dns-check-go) - No
+  description provided.
 - [GitLatte_patr0n (0)](https://github.com/ramazansancar/GitLatte_patr0n)
   ([homepage](https://raw.githack.com/ramazansancar/GitLatte_patr0n/site/index.html)) -
   URL extraction from a text inside or url page
