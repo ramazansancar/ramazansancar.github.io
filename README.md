@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (71)
+## Projects (70)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -178,9 +178,6 @@ looking for my website? go to
 - [planningListApi (0)](https://github.com/ramazansancar/planningListApi)
   ([homepage](https://planningoperationapi-wen7okua.b4a.run/)) - ISP (Internet
   Service Provider) Planning Operation List API for Turkey
-- [stock-cost-calculator (0)](https://github.com/ramazansancar/stock-cost-calculator)
-  ([homepage](https://portfoy.ramsan.tr/)) - Hisse, Borsa, Döviz, Banka, Altın,
-  Kripto gibi şeylerin Portföy Takibi Sistemi
 - [turkey-radar-map (0)](https://github.com/ramazansancar/turkey-radar-map)
   ([homepage](https://turkey-radar-map.vercel.app)) - Türkiye Radar Haritası
 - [Ulaknet_Stats (0)](https://github.com/ramazansancar/Ulaknet_Stats)
