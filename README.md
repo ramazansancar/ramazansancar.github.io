@@ -184,7 +184,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (236)
+## Forks (237)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -598,6 +598,8 @@ looking for my website? go to
   ([homepage](https://fluxpoint.dev)) - Translation work for my Discord bots
 - [fmhy_FMHYedit](https://github.com/ramazansancar/fmhy_FMHYedit)
   ([homepage](https://rentry.org/fmhyedit)) - Make changes to FMHY
+- [fraudiay79_streams-logos](https://github.com/ramazansancar/fraudiay79_streams-logos) -
+  Live Stream Logos
 - [FreshRSS_Extensions](https://github.com/ramazansancar/FreshRSS_Extensions) -
   A repository containing all the official FreshRSS extensions
 - [FreshRSS_FreshRSS](https://github.com/ramazansancar/FreshRSS_FreshRSS)
