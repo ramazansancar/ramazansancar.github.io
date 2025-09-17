@@ -184,7 +184,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (237)
+## Forks (238)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -565,6 +565,8 @@ looking for my website? go to
   Principle of WinRAR key generation.
 - [Caglarsonmez_KAP_Scraper](https://github.com/ramazansancar/Caglarsonmez_KAP_Scraper) -
   Scraping kap.org.tr for Turkish corporation data
+- [cagritaskn_SplitWire-Turkey](https://github.com/ramazansancar/cagritaskn_SplitWire-Turkey) -
+  SplitWire-Turkey, çeşitli yöntemlerle kısıt aşma aracı.
 - [chesslablab_website](https://github.com/ramazansancar/chesslablab_website)
   ([homepage](https://chesslablab.github.io/website/)) - Website intended to
   learn and play chess online.
