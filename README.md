@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (70)
+## Projects (71)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -153,6 +153,8 @@ looking for my website? go to
   Üniversitesi Yemek Listesi Android Uygulaması
 - [myagizmaktav_simple-cargo-tracker (1)](https://github.com/ramazansancar/myagizmaktav_simple-cargo-tracker) -
   No description provided.
+- [React-Projects-mesut (1)](https://github.com/ramazansancar/React-Projects-mesut) -
+  A repository containing projects made using React
 - [twitch-moderation-bot-Venfu (1)](https://github.com/ramazansancar/twitch-moderation-bot-Venfu) -
   No description provided.
 - [vercel-test (1)](https://github.com/ramazansancar/vercel-test) - No
@@ -184,7 +186,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (238)
+## Forks (237)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -456,8 +458,6 @@ looking for my website? go to
 - [react-country-flag](https://github.com/ramazansancar/react-country-flag)
   ([homepage](https://danalloway.github.io/react-country-flag/)) - React
   component for emoji/svg country flags.
-- [React-Projects-mesut](https://github.com/ramazansancar/React-Projects-mesut) -
-  A repository containing projects made using React
 - [react-weather-app](https://github.com/ramazansancar/react-weather-app)
   ([homepage](https://weather.ramazansancar.com.tr)) - No description provided.
 - [Recipe-Card](https://github.com/ramazansancar/Recipe-Card)
