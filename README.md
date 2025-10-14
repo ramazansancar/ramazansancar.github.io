@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (71)
+## Projects (72)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -17,7 +17,7 @@ looking for my website? go to
 - [keyiflerolsun_Kekik-cloudstream (9)](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
   ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
   Türkçe yayın yapan sitelere ait eklentiler
-- [Guvenli-Alisveris (7)](https://github.com/ramazansancar/Guvenli-Alisveris) -
+- [Guvenli-Alisveris (8)](https://github.com/ramazansancar/Guvenli-Alisveris) -
   Güvenli Alışveriş yapmak için nelere dikkat etmelisiniz? Hangi sitelerden
   alışveriş yapılır? Nasıl Dolandırılmam? vs.
 - [Dexofuzzy2 (5)](https://github.com/ramazansancar/Dexofuzzy2) - No description
@@ -34,6 +34,11 @@ looking for my website? go to
   ([homepage](https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi)) -
   Software that retrieves BTK 'Commercial Service Providers Hosting Provider'
   data and checks its current status daily
+- [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (4)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
+  ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
+  provided.
+- [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python (4)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python) -
+  No description provided.
 - [netflix-viewing-activity (4)](https://github.com/ramazansancar/netflix-viewing-activity) -
   :tv: Download your Netflix account viewing activity in JSON or CSV.
 - [notes (4)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
@@ -48,14 +53,13 @@ looking for my website? go to
 - [.github (3)](https://github.com/ramazansancar/.github) - Sponsor button etc
 - [actuallyzefe-Amazon-Web-Scraping (3)](https://github.com/ramazansancar/actuallyzefe-Amazon-Web-Scraping) -
   No description provided.
-- [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
-  ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
-  provided.
-- [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python) -
+- [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs) -
   No description provided.
 - [spotify-song-recommender (3)](https://github.com/ramazansancar/spotify-song-recommender)
   ([homepage](https://spotify.ramazansancar.com.tr/)) - No description provided.
 - [UzunMuhalefet_Legal-IPTV (3)](https://github.com/ramazansancar/UzunMuhalefet_Legal-IPTV) -
+  No description provided.
+- [various-viewing-activity (3)](https://github.com/ramazansancar/various-viewing-activity) -
   No description provided.
 - [acikkaynak_calisma-mekanlari (2)](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari)
   ([homepage](https://calisma-mekanlari-app.vercel.app/)) - Çalışma mekanlarını
@@ -79,6 +83,9 @@ looking for my website? go to
   use it for data processing use the JSON file. The JSON file is updated every
   every day at midnight (00:00) for UTC. The data is taken from the site Anıt
   Sayaç.
+- [atomicptr_crab (2)](https://github.com/ramazansancar/atomicptr_crab) - 🦀 A
+  versatile tool to crawl dozens of URLs from a given source, like a sitemap or
+  an URL list.
 - [canli-kameralar (2)](https://github.com/ramazansancar/canli-kameralar) -
   Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [deneme (2)](https://github.com/ramazansancar/deneme) - deneme
@@ -98,8 +105,6 @@ looking for my website? go to
   öğrenilmesini kolaylaştıran araç
 - [KleiAccountsLocale (2)](https://github.com/ramazansancar/KleiAccountsLocale)
   ([homepage](https://accounts.klei.com)) - Klei Accounts Website Translations.
-- [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs (2)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs) -
-  No description provided.
 - [lisans (2)](https://github.com/ramazansancar/lisans) - No description
   provided.
 - [movie-web_docs (2)](https://github.com/ramazansancar/movie-web_docs) - Fork
@@ -127,8 +132,6 @@ looking for my website? go to
   ([homepage](https://swisskyrepo.github.io/PayloadsAllTheThings/)) - A list of
   useful payloads and bypass for Web Application Security and Pentest/CTF
 - [turkiye-haritasi-svg (2)](https://github.com/ramazansancar/turkiye-haritasi-svg) -
-  No description provided.
-- [various-viewing-activity (2)](https://github.com/ramazansancar/various-viewing-activity) -
   No description provided.
 - [webappalyzer-js (2)](https://github.com/ramazansancar/webappalyzer-js)
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
@@ -186,7 +189,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (240)
+## Forks (239)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -197,9 +200,6 @@ looking for my website? go to
 - [alicangunduz_tanismada-sohbet-tikanmasin](https://github.com/ramazansancar/alicangunduz_tanismada-sohbet-tikanmasin)
   ([homepage](https://flort-sorulari.vercel.app/)) - Tanışma sırasında sohbet
   duruyor soracak sorunuz kalmıyorsa sizin için geliştirdiğim çözüm.
-- [atomicptr_crab](https://github.com/ramazansancar/atomicptr_crab) - 🦀 A
-  versatile tool to crawl dozens of URLs from a given source, like a sitemap or
-  an URL list.
 - [awesome-vue](https://github.com/ramazansancar/awesome-vue) - 🎉 A curated
   list of awesome things related to Vue.js
 - [baris-akarsu-ile-anilar.github.io](https://github.com/ramazansancar/baris-akarsu-ile-anilar.github.io)
