@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (72)
+## Projects (73)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -180,6 +180,10 @@ looking for my website? go to
   URL extraction from a text inside or url page
 - [grasspow-TelegramStickersDownloadBot (0)](https://github.com/ramazansancar/grasspow-TelegramStickersDownloadBot) -
   No description provided.
+- [peertube-resarch-and-instance-adder (0)](https://github.com/ramazansancar/peertube-resarch-and-instance-adder)
+  ([homepage](https://instances.joinpeertube.org/instances)) - Script that
+  searches for Peertube instances and sends its findings to the instance
+  peertube site
 - [planningListApi (0)](https://github.com/ramazansancar/planningListApi)
   ([homepage](https://planningoperationapi-wen7okua.b4a.run/)) - ISP (Internet
   Service Provider) Planning Operation List API for Turkey
