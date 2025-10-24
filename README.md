@@ -193,7 +193,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (241)
+## Forks (242)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -618,6 +618,9 @@ looking for my website? go to
 - [gethomepage_homepage](https://github.com/ramazansancar/gethomepage_homepage)
   ([homepage](https://gethomepage.dev)) - A highly customizable homepage (or
   startpage / application dashboard) with Docker and service API integrations.
+- [gnmyt_MySpeed](https://github.com/ramazansancar/gnmyt_MySpeed)
+  ([homepage](https://myspeed.dev)) - A speed test analysis software that shows
+  your internet speed for up to 30 days
 - [gnojus_wedl-go](https://github.com/ramazansancar/gnojus_wedl-go) - Small
   command line utility to download from https://wetransfer.com
 - [gosom_google-maps-scraper](https://github.com/ramazansancar/gosom_google-maps-scraper) -
