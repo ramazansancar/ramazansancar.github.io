@@ -193,7 +193,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (242)
+## Forks (244)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -567,6 +567,13 @@ looking for my website? go to
   No description provided.
 - [bitcookies_winrar-keygen](https://github.com/ramazansancar/bitcookies_winrar-keygen) -
   Principle of WinRAR key generation.
+- [block_goose](https://github.com/ramazansancar/block_goose)
+  ([homepage](https://block.github.io/goose/)) - an open source, extensible AI
+  agent that goes beyond code suggestions - install, execute, edit, and test
+  with any LLM
+- [botblock_BLAPI](https://github.com/ramazansancar/botblock_BLAPI) - A package
+  to handle posting your discord bot stats to all botlists [Typescript (and
+  JavaScript) - maintained by @maybeanerd]
 - [Caglarsonmez_KAP_Scraper](https://github.com/ramazansancar/Caglarsonmez_KAP_Scraper) -
   Scraping kap.org.tr for Turkish corporation data
 - [cagritaskn_SplitWire-Turkey](https://github.com/ramazansancar/cagritaskn_SplitWire-Turkey) -
