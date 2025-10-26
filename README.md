@@ -223,6 +223,8 @@ looking for my website? go to
 - [bulut-bilisimciler-senaryolar](https://github.com/ramazansancar/bulut-bilisimciler-senaryolar) -
   https://bulutbilisimciler.com sitesinde yayınlanan eğitim için oluşturulan
   senaryolar.
+- [cagritaskn_SplitWire-Turkey](https://github.com/ramazansancar/cagritaskn_SplitWire-Turkey) -
+  SplitWire-Turkey, çeşitli yöntemlerle kısıt aşma aracı.
 - [cahitihac_kap-notifier](https://github.com/ramazansancar/cahitihac_kap-notifier) -
   A server and client app that requests new disclosures published on KAP
   (https://www.kap.org.tr/). New disclosures are updated on KAP every 3 minutes
@@ -576,8 +578,6 @@ looking for my website? go to
   JavaScript) - maintained by @maybeanerd]
 - [Caglarsonmez_KAP_Scraper](https://github.com/ramazansancar/Caglarsonmez_KAP_Scraper) -
   Scraping kap.org.tr for Turkish corporation data
-- [cagritaskn_SplitWire-Turkey](https://github.com/ramazansancar/cagritaskn_SplitWire-Turkey) -
-  SplitWire-Turkey, çeşitli yöntemlerle kısıt aşma aracı.
 - [chesslablab_website](https://github.com/ramazansancar/chesslablab_website)
   ([homepage](https://chesslablab.github.io/website/)) - Website intended to
   learn and play chess online.
