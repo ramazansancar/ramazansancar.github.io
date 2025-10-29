@@ -31,9 +31,9 @@ looking for my website? go to
   this.
   https://raw.githack.com/ramazansancar/AndroidStringXmlTranslator/master/index.html
 - [btk-yer_saglayici (4)](https://github.com/ramazansancar/btk-yer_saglayici)
-  ([homepage](https://www.btk.gov.tr/ticari-amacli-hizmet-verenler-yer-saglayici-listesi)) -
-  Software that retrieves BTK 'Commercial Service Providers Hosting Provider'
-  data and checks its current status daily
+  ([homepage](https://internet.btk.gov.tr/yer-saglayici-listesi)) - Software
+  that retrieves BTK 'Commercial Service Providers Hosting Provider' data and
+  checks its current status daily
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (4)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
   ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
