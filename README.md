@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (73)
+## Projects (74)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -25,6 +25,9 @@ looking for my website? go to
 - [IULecture (5)](https://github.com/ramazansancar/IULecture) - Istanbul
   University AUZEF Computer Programming and Graphic Design Lecture Notes and
   Information Repo.
+- [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (5)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
+  ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
+  provided.
 - [AndroidStringXmlTranslator (4)](https://github.com/ramazansancar/AndroidStringXmlTranslator)
   ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
   In order to make language translations more efficiently, I have a repo like
@@ -34,9 +37,6 @@ looking for my website? go to
   ([homepage](https://internet.btk.gov.tr/yer-saglayici-listesi)) - Software
   that retrieves BTK 'Commercial Service Providers Hosting Provider' data and
   checks its current status daily
-- [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (4)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
-  ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
-  provided.
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python (4)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python) -
   No description provided.
 - [netflix-viewing-activity (4)](https://github.com/ramazansancar/netflix-viewing-activity) -
@@ -83,6 +83,9 @@ looking for my website? go to
   use it for data processing use the JSON file. The JSON file is updated every
   every day at midnight (00:00) for UTC. The data is taken from the site Anıt
   Sayaç.
+- [atomicptr_crab (2)](https://github.com/ramazansancar/atomicptr_crab) - 🦀 A
+  versatile tool to crawl dozens of URLs from a given source, like a sitemap or
+  an URL list.
 - [canli-kameralar (2)](https://github.com/ramazansancar/canli-kameralar) -
   Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [deneme (2)](https://github.com/ramazansancar/deneme) - deneme
@@ -192,7 +195,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (246)
+## Forks (245)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -203,9 +206,6 @@ looking for my website? go to
 - [alicangunduz_tanismada-sohbet-tikanmasin](https://github.com/ramazansancar/alicangunduz_tanismada-sohbet-tikanmasin)
   ([homepage](https://flort-sorulari.vercel.app/)) - Tanışma sırasında sohbet
   duruyor soracak sorunuz kalmıyorsa sizin için geliştirdiğim çözüm.
-- [atomicptr_crab](https://github.com/ramazansancar/atomicptr_crab) - 🦀 A
-  versatile tool to crawl dozens of URLs from a given source, like a sitemap or
-  an URL list.
 - [awesome-vue](https://github.com/ramazansancar/awesome-vue) - 🎉 A curated
   list of awesome things related to Vue.js
 - [baris-akarsu-ile-anilar.github.io](https://github.com/ramazansancar/baris-akarsu-ile-anilar.github.io)
