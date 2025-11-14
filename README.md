@@ -195,7 +195,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (245)
+## Forks (247)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -556,6 +556,8 @@ looking for my website? go to
   tube videos on Android TV boxes
 - [yumod-chrome-extension](https://github.com/ramazansancar/yumod-chrome-extension) -
   Yumod Chrome Extension
+- [6c65726f79_Transmissionic](https://github.com/ramazansancar/6c65726f79_Transmissionic) -
+  Remote for Transmission Daemon
 - [alexjustesen_speedtest-tracker](https://github.com/ramazansancar/alexjustesen_speedtest-tracker)
   ([homepage](https://speedtest-tracker.dev/)) - Speedtest Tracker is a
   self-hosted application that monitors the performance and uptime of your
@@ -636,6 +638,8 @@ looking for my website? go to
   scrape data data from Google Maps. Extracts data such as the name, address,
   phone number, website URL, rating, reviews number, latitude and longitude,
   reviews,email and more for each place
+- [ibidi_deprem-api](https://github.com/ramazansancar/ibidi_deprem-api) - 🌍
+  Modern, gerçek zamanlı deprem takip sistemi.
 - [internetarchive_wayback-machine-webextension](https://github.com/ramazansancar/internetarchive_wayback-machine-webextension) -
   A web browser extension for Chrome, Firefox, Edge, and Safari 14.
 - [iptv-org_database](https://github.com/ramazansancar/iptv-org_database)
