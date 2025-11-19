@@ -195,7 +195,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (247)
+## Forks (248)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -585,6 +585,9 @@ looking for my website? go to
 - [chesslablab_website](https://github.com/ramazansancar/chesslablab_website)
   ([homepage](https://chesslablab.github.io/website/)) - Website intended to
   learn and play chess online.
+- [CitiesSkylinesModding_PdxModsIntlCrawler](https://github.com/ramazansancar/CitiesSkylinesModding_PdxModsIntlCrawler) -
+  A simple CLI tool to find mods from Paradox Mods supporting
+  community-supported translations
 - [code-a-man_calisma-mekanlari-app](https://github.com/ramazansancar/code-a-man_calisma-mekanlari-app)
   ([homepage](https://calisma-mekanlari-app.vercel.app)) - No description
   provided.
