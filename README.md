@@ -20,11 +20,11 @@ looking for my website? go to
 - [Guvenli-Alisveris (8)](https://github.com/ramazansancar/Guvenli-Alisveris) -
   Güvenli Alışveriş yapmak için nelere dikkat etmelisiniz? Hangi sitelerden
   alışveriş yapılır? Nasıl Dolandırılmam? vs.
-- [Dexofuzzy2 (5)](https://github.com/ramazansancar/Dexofuzzy2) - No description
-  provided.
-- [IULecture (5)](https://github.com/ramazansancar/IULecture) - Istanbul
+- [IULecture (6)](https://github.com/ramazansancar/IULecture) - Istanbul
   University AUZEF Computer Programming and Graphic Design Lecture Notes and
   Information Repo.
+- [Dexofuzzy2 (5)](https://github.com/ramazansancar/Dexofuzzy2) - No description
+  provided.
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (5)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
   ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
@@ -195,7 +195,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (248)
+## Forks (255)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -571,6 +571,8 @@ looking for my website? go to
   backend repository of Attendance Tracking System of Team Aces for SIH 2022.
 - [ayetkin_cross-check](https://github.com/ramazansancar/ayetkin_cross-check) -
   No description provided.
+- [baka-gourd_I18NEverywhere.Localization](https://github.com/ramazansancar/baka-gourd_I18NEverywhere.Localization) -
+  Cities Skylines 2 i18n Mod Localization Repo
 - [bitcookies_winrar-keygen](https://github.com/ramazansancar/bitcookies_winrar-keygen) -
   Principle of WinRAR key generation.
 - [block_goose](https://github.com/ramazansancar/block_goose)
@@ -769,6 +771,8 @@ looking for my website? go to
   Bilgisayar Ağları Ders Notları
 - [OzgeOzkaya_AnitSayac](https://github.com/ramazansancar/OzgeOzkaya_AnitSayac) -
   No description provided.
+- [phillycheeze_CitizenEntityCleaner](https://github.com/ramazansancar/phillycheeze_CitizenEntityCleaner) -
+  A Cities Skylines 2 mod for Citizen Entity Cleaner
 - [pi-hole_docs](https://github.com/ramazansancar/pi-hole_docs)
   ([homepage](https://docs.pi-hole.net/)) - The official Pi-hole documentation
 - [qeeqbox_social-analyzer](https://github.com/ramazansancar/qeeqbox_social-analyzer) -
@@ -778,6 +782,17 @@ looking for my website? go to
   No description provided.
 - [regstuff_git-news](https://github.com/ramazansancar/regstuff_git-news) - No
   description provided.
+- [River-Mochi_AchievementFixer](https://github.com/ramazansancar/River-Mochi_AchievementFixer) -
+  Keep achievements working in Cities: Skylines II even when you play with mods.
+- [River-Mochi_AdjustSchoolCapacity](https://github.com/ramazansancar/River-Mochi_AdjustSchoolCapacity) -
+  Increases the student capacity of various educational buildings in Cities
+  Skylines 2
+- [River-Mochi_MagicGarbage](https://github.com/ramazansancar/River-Mochi_MagicGarbage) -
+  Removes the need for garbage handling in C:S2
+- [River-Mochi_MagicHearse](https://github.com/ramazansancar/River-Mochi_MagicHearse) -
+  Removes the need for deathcare buildings in your Cities Skylines 2 city
+- [ruzbeh0_Time2Work](https://github.com/ramazansancar/ruzbeh0_Time2Work) -
+  Time2Work Mod for Cities Skylines 2
 - [samogod_mobese](https://github.com/ramazansancar/samogod_mobese) - Advanced
   object tracking system in Turkey Live CCTV footages.
 - [semihkeskindev_captcha-solver](https://github.com/ramazansancar/semihkeskindev_captcha-solver) -
