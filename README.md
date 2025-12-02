@@ -591,8 +591,8 @@ looking for my website? go to
   A simple CLI tool to find mods from Paradox Mods supporting
   community-supported translations
 - [code-a-man_calisma-mekanlari-app](https://github.com/ramazansancar/code-a-man_calisma-mekanlari-app)
-  ([homepage](https://calisma-mekanlari-app.vercel.app)) - No description
-  provided.
+  ([homepage](https://calisma-mekanlari.vercel.app/)) - Türkiye Çalışma
+  Mekanları
 - [coding-to-music_gamedb](https://github.com/ramazansancar/coding-to-music_gamedb)
   ([homepage](https://globalsteam.online/)) - No description provided.
 - [davidarroyo1234_InstagramUnfollowers](https://github.com/ramazansancar/davidarroyo1234_InstagramUnfollowers) -
