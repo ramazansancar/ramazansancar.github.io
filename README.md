@@ -195,7 +195,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (258)
+## Forks (259)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -693,6 +693,8 @@ looking for my website? go to
   Turkiye
 - [keyiflerolsun_.dotfiles](https://github.com/ramazansancar/keyiflerolsun_.dotfiles) -
   /etc/keyiflerolsun
+- [keyiflerolsun_KekikParty](https://github.com/ramazansancar/keyiflerolsun_KekikParty) -
+  YTDLP ve FastAPI ile Watch Party
 - [keyiflerolsun_KekikStream](https://github.com/ramazansancar/keyiflerolsun_KekikStream)
   ([homepage](http://keyiflerolsun.me/KekikStream/)) - terminal üzerinden medya
   içeriği aramanızı ve VLC/MPV gibi popüler medya oynatıcılar aracılığıyla
