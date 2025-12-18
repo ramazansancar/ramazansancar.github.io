@@ -195,7 +195,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (259)
+## Forks (260)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -648,6 +648,9 @@ looking for my website? go to
   scrape data data from Google Maps. Extracts data such as the name, address,
   phone number, website URL, rating, reviews number, latitude and longitude,
   reviews,email and more for each place
+- [homarr-labs_dashboard-icons](https://github.com/ramazansancar/homarr-labs_dashboard-icons)
+  ([homepage](https://dashboardicons.com)) - Your definitive source for
+  dashboard icons.
 - [ibidi_deprem-api](https://github.com/ramazansancar/ibidi_deprem-api) - 🌍
   Modern, gerçek zamanlı deprem takip sistemi.
 - [internetarchive_wayback-machine-webextension](https://github.com/ramazansancar/internetarchive_wayback-machine-webextension) -
