@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (74)
+## Projects (78)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -180,6 +180,8 @@ looking for my website? go to
   URL extraction from a text inside or url page
 - [grasspow-TelegramStickersDownloadBot (0)](https://github.com/ramazansancar/grasspow-TelegramStickersDownloadBot) -
   No description provided.
+- [manisa-maski-su-kesintisi (0)](https://github.com/ramazansancar/manisa-maski-su-kesintisi) -
+  No description provided.
 - [peertube-resarch-and-instance-adder (0)](https://github.com/ramazansancar/peertube-resarch-and-instance-adder)
   ([homepage](https://instances.joinpeertube.org/instances)) - Script that
   searches for Peertube instances and sends its findings to the instance
@@ -191,11 +193,17 @@ looking for my website? go to
   description provided.
 - [turkey-radar-map (0)](https://github.com/ramazansancar/turkey-radar-map)
   ([homepage](https://turkey-radar-map.vercel.app)) - Türkiye Radar Haritası
+- [TVGarden_iptv-blacklist (0)](https://github.com/ramazansancar/TVGarden_iptv-blacklist) -
+  No description provided.
+- [TVGarden_iptv-channel-list (0)](https://github.com/ramazansancar/TVGarden_iptv-channel-list) -
+  No description provided.
+- [TVGarden_youtube-channel-list (0)](https://github.com/ramazansancar/TVGarden_youtube-channel-list) -
+  No description provided.
 - [Ulaknet_Stats (0)](https://github.com/ramazansancar/Ulaknet_Stats)
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (260)
+## Forks (257)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -832,12 +840,6 @@ looking for my website? go to
   Worker
 - [topaloglusamet_steam_pusula](https://github.com/ramazansancar/topaloglusamet_steam_pusula) -
   You can access the source codes of the add-on I prepared for Steam here.
-- [TVGarden_iptv-blacklist](https://github.com/ramazansancar/TVGarden_iptv-blacklist) -
-  No description provided.
-- [TVGarden_iptv-channel-list](https://github.com/ramazansancar/TVGarden_iptv-channel-list) -
-  No description provided.
-- [TVGarden_youtube-channel-list](https://github.com/ramazansancar/TVGarden_youtube-channel-list) -
-  No description provided.
 - [v3_ramazansancar.com.tr](https://github.com/ramazansancar/v3_ramazansancar.com.tr)
   ([homepage](https://github.com/ozgursagiroglu)) - Config files for my GitHub
   profile.
