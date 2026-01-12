@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (78)
+## Projects (79)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -180,6 +180,8 @@ looking for my website? go to
   URL extraction from a text inside or url page
 - [grasspow-TelegramStickersDownloadBot (0)](https://github.com/ramazansancar/grasspow-TelegramStickersDownloadBot) -
   No description provided.
+- [keyiflerolsun_KekikParty (0)](https://github.com/ramazansancar/keyiflerolsun_KekikParty) -
+  YTDLP ve FastAPI ile Watch Party
 - [manisa-maski-su-kesintisi (0)](https://github.com/ramazansancar/manisa-maski-su-kesintisi) -
   No description provided.
 - [peertube-resarch-and-instance-adder (0)](https://github.com/ramazansancar/peertube-resarch-and-instance-adder)
@@ -203,7 +205,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (257)
+## Forks (255)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -704,14 +706,10 @@ looking for my website? go to
   Turkiye
 - [keyiflerolsun_.dotfiles](https://github.com/ramazansancar/keyiflerolsun_.dotfiles) -
   /etc/keyiflerolsun
-- [keyiflerolsun_KekikParty](https://github.com/ramazansancar/keyiflerolsun_KekikParty) -
-  YTDLP ve FastAPI ile Watch Party
 - [keyiflerolsun_KekikStream](https://github.com/ramazansancar/keyiflerolsun_KekikStream)
   ([homepage](http://keyiflerolsun.me/KekikStream/)) - terminal üzerinden medya
   içeriği aramanızı ve VLC/MPV gibi popüler medya oynatıcılar aracılığıyla
   doğrudan izlemenizi sağlayan modüler ve genişletilebilir bir bıdı bıdı
-- [keyiflerolsun_KekikStreamAPI](https://github.com/ramazansancar/keyiflerolsun_KekikStreamAPI) -
-  No description provided.
 - [keyiflerolsun_SambaPOS_Ucretsiz](https://github.com/ramazansancar/keyiflerolsun_SambaPOS_Ucretsiz)
   ([homepage](http://keyiflerolsun.tr/SambaPOS_Ucretsiz/)) - SambaPOS V4 Full
   Veritabanı
