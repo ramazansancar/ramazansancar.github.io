@@ -191,7 +191,7 @@ looking for my website? go to
   searches for Peertube instances and sends its findings to the instance
   peertube site
 - [planningListApi (0)](https://github.com/ramazansancar/planningListApi)
-  ([homepage](https://planningoperationapi-wen7okua.b4a.run/)) - ISP (Internet
+  ([homepage](https://planningoperationapi-3hku41i9.b4a.run/)) - ISP (Internet
   Service Provider) Planning Operation List API for Turkey
 - [rtuk-lisans (0)](https://github.com/ramazansancar/rtuk-lisans) - No
   description provided.
