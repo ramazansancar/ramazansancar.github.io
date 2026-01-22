@@ -53,6 +53,8 @@ looking for my website? go to
 - [.github (3)](https://github.com/ramazansancar/.github) - Sponsor button etc
 - [actuallyzefe-Amazon-Web-Scraping (3)](https://github.com/ramazansancar/actuallyzefe-Amazon-Web-Scraping) -
   No description provided.
+- [canli-kameralar (3)](https://github.com/ramazansancar/canli-kameralar) -
+  Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs (3)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-nodejs) -
   No description provided.
 - [spotify-song-recommender (3)](https://github.com/ramazansancar/spotify-song-recommender)
@@ -86,8 +88,6 @@ looking for my website? go to
 - [atomicptr_crab (2)](https://github.com/ramazansancar/atomicptr_crab) - 🦀 A
   versatile tool to crawl dozens of URLs from a given source, like a sitemap or
   an URL list.
-- [canli-kameralar (2)](https://github.com/ramazansancar/canli-kameralar) -
-  Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [deneme (2)](https://github.com/ramazansancar/deneme) - deneme
 - [email-templates (2)](https://github.com/ramazansancar/email-templates)
   ([homepage](https://colorlib.com/wp/responsive-html-email-templates/)) - Free
