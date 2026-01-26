@@ -105,6 +105,8 @@ looking for my website? go to
   öğrenilmesini kolaylaştıran araç
 - [KleiAccountsLocale (2)](https://github.com/ramazansancar/KleiAccountsLocale)
   ([homepage](https://accounts.klei.com)) - Klei Accounts Website Translations.
+- [KLU_Yemek (2)](https://github.com/ramazansancar/KLU_Yemek) - Kırklareli
+  Üniversitesi Yemek Listesi Android Uygulaması
 - [lisans (2)](https://github.com/ramazansancar/lisans) - No description
   provided.
 - [movie-web_docs (2)](https://github.com/ramazansancar/movie-web_docs) - Fork
@@ -152,8 +154,8 @@ looking for my website? go to
   robot powered training repository :robot:
 - [holiday-calendar (1)](https://github.com/ramazansancar/holiday-calendar) - No
   description provided.
-- [KLU_Yemek (1)](https://github.com/ramazansancar/KLU_Yemek) - Kırklareli
-  Üniversitesi Yemek Listesi Android Uygulaması
+- [manisa-maski-su-kesintisi (1)](https://github.com/ramazansancar/manisa-maski-su-kesintisi) -
+  No description provided.
 - [myagizmaktav_simple-cargo-tracker (1)](https://github.com/ramazansancar/myagizmaktav_simple-cargo-tracker) -
   No description provided.
 - [nodejs-express-passport-auth (1)](https://github.com/ramazansancar/nodejs-express-passport-auth) -
@@ -184,8 +186,6 @@ looking for my website? go to
   No description provided.
 - [keyiflerolsun_KekikParty (0)](https://github.com/ramazansancar/keyiflerolsun_KekikParty) -
   YTDLP ve FastAPI ile Watch Party
-- [manisa-maski-su-kesintisi (0)](https://github.com/ramazansancar/manisa-maski-su-kesintisi) -
-  No description provided.
 - [peertube-resarch-and-instance-adder (0)](https://github.com/ramazansancar/peertube-resarch-and-instance-adder)
   ([homepage](https://instances.joinpeertube.org/instances)) - Script that
   searches for Peertube instances and sends its findings to the instance
