@@ -697,8 +697,8 @@ looking for my website? go to
 - [jshackles_ActivateOnSteam](https://github.com/ramazansancar/jshackles_ActivateOnSteam) -
   A web extension that adds a context menu to activate the selected text on
   Steam
-- [juskahpe_dnsmc](https://github.com/ramazansancar/juskahpe_dnsmc) - No
-  description provided.
+- [juskahpe_dnsmc](https://github.com/ramazansancar/juskahpe_dnsmc)
+  ([homepage](https://dnschangemc.netlify.app/)) - No description provided.
 - [kadirsener1_CanliTvListe](https://github.com/ramazansancar/kadirsener1_CanliTvListe) -
   Yayın platformlarını güncel tutan m3u listesi
 - [kaymal_acik-veri](https://github.com/ramazansancar/kaymal_acik-veri) -
