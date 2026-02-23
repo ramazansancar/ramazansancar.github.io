@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (80)
+## Projects (79)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -184,8 +184,6 @@ looking for my website? go to
   URL extraction from a text inside or url page
 - [grasspow-TelegramStickersDownloadBot (0)](https://github.com/ramazansancar/grasspow-TelegramStickersDownloadBot) -
   No description provided.
-- [keyiflerolsun_KekikParty (0)](https://github.com/ramazansancar/keyiflerolsun_KekikParty) -
-  YTDLP ve FastAPI ile Watch Party
 - [peertube-resarch-and-instance-adder (0)](https://github.com/ramazansancar/peertube-resarch-and-instance-adder)
   ([homepage](https://instances.joinpeertube.org/instances)) - Script that
   searches for Peertube instances and sends its findings to the instance
