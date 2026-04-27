@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (79)
+## Projects (80)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -184,6 +184,8 @@ looking for my website? go to
   URL extraction from a text inside or url page
 - [grasspow-TelegramStickersDownloadBot (0)](https://github.com/ramazansancar/grasspow-TelegramStickersDownloadBot) -
   No description provided.
+- [mertcangokgoz_usom-adguard-mirror (0)](https://github.com/ramazansancar/mertcangokgoz_usom-adguard-mirror) -
+  Ulusal Siber Olaylara Müdahale Merkezi Malware URL AdGuard Format
 - [peertube-resarch-and-instance-adder (0)](https://github.com/ramazansancar/peertube-resarch-and-instance-adder)
   ([homepage](https://instances.joinpeertube.org/instances)) - Script that
   searches for Peertube instances and sends its findings to the instance
@@ -205,7 +207,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (256)
+## Forks (255)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -743,8 +745,6 @@ looking for my website? go to
   Automation Software.
 - [mchangrh_sb-mirror](https://github.com/ramazansancar/mchangrh_sb-mirror) -
   Docker containers to mirror the SponsorBlock database + API
-- [mertcangokgoz_usom-adguard-mirror](https://github.com/ramazansancar/mertcangokgoz_usom-adguard-mirror) -
-  Ulusal Siber Olaylara Müdahale Merkezi Malware URL AdGuard Format
 - [mertskaplan_multitv](https://github.com/ramazansancar/mertskaplan_multitv)
   ([homepage](https://portal.ramazansancar.com.tr/multitv/)) - It allows to
   watch many television news channels at the same time via YouTube.
