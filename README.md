@@ -14,7 +14,7 @@ looking for my website? go to
 
 - [ramazansancar (12)](https://github.com/ramazansancar/ramazansancar) - 🐲
   GitHub Profile Readme
-- [keyiflerolsun_Kekik-cloudstream (11)](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
+- [keyiflerolsun_Kekik-cloudstream (10)](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
   ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
   Türkçe yayın yapan sitelere ait eklentiler
 - [Guvenli-Alisveris (8)](https://github.com/ramazansancar/Guvenli-Alisveris) -
@@ -36,8 +36,8 @@ looking for my website? go to
   ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
 - [acikkaynak_calisma-mekanlari (4)](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari)
-  ([homepage](https://calisma-mekanlari-app.vercel.app/)) - Çalışma mekanlarını
-  bu repository altında listeliyoruz
+  ([homepage](https://calisma-mekanlari.vercel.app/)) - Çalışma mekanlarını bu
+  repository altında listeliyoruz
 - [btk-yer_saglayici (4)](https://github.com/ramazansancar/btk-yer_saglayici)
   ([homepage](https://internet.btk.gov.tr/yer-saglayici-listesi)) - Software
   that retrieves BTK 'Commercial Service Providers Hosting Provider' data and
