@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (80)
+## Projects (81)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -162,6 +162,8 @@ looking for my website? go to
   No description provided.
 - [React-Projects-mesut (1)](https://github.com/ramazansancar/React-Projects-mesut) -
   A repository containing projects made using React
+- [streamcord-role-bot (1)](https://github.com/ramazansancar/streamcord-role-bot) -
+  Bot to assign role on first message for Streamcord PTB
 - [twitch-moderation-bot-Venfu (1)](https://github.com/ramazansancar/twitch-moderation-bot-Venfu) -
   No description provided.
 - [vercel-test (1)](https://github.com/ramazansancar/vercel-test) - No
@@ -207,7 +209,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (255)
+## Forks (254)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -506,8 +508,6 @@ looking for my website? go to
   provided.
 - [SteamGenerateMobileAuthPHP](https://github.com/ramazansancar/SteamGenerateMobileAuthPHP) -
   Generate Steam Mobile Auth (2FA) Code using PHP.
-- [streamcord-role-bot](https://github.com/ramazansancar/streamcord-role-bot) -
-  Bot to assign role on first message for Streamcord PTB
 - [taskforce](https://github.com/ramazansancar/taskforce) - Taskforce ile
   amacımız topluluk destekli ve açık kaynaklı eğitim içerikleri oluşturmak ve
   programlama öğrenmek isteyen kişilere temelden ileri seviyeye kadar proje
