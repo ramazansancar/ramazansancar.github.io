@@ -12,7 +12,7 @@ looking for my website? go to
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
 
-- [ramazansancar (12)](https://github.com/ramazansancar/ramazansancar) - 🐲
+- [ramazansancar (13)](https://github.com/ramazansancar/ramazansancar) - 🐲
   GitHub Profile Readme
 - [keyiflerolsun_Kekik-cloudstream (10)](https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream)
   ([homepage](http://keyiflerolsun.me/Kekik-cloudstream/)) - CloudStream için
@@ -23,6 +23,9 @@ looking for my website? go to
 - [IULecture (6)](https://github.com/ramazansancar/IULecture) - Istanbul
   University AUZEF Computer Programming and Graphic Design Lecture Notes and
   Information Repo.
+- [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (6)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
+  ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
+  provided.
 - [AndroidStringXmlTranslator (5)](https://github.com/ramazansancar/AndroidStringXmlTranslator)
   ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
   In order to make language translations more efficiently, I have a repo like
@@ -31,9 +34,6 @@ looking for my website? go to
 - [canli-kameralar (5)](https://github.com/ramazansancar/canli-kameralar) -
   Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [Dexofuzzy2 (5)](https://github.com/ramazansancar/Dexofuzzy2) - No description
-  provided.
-- [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (5)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
-  ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
 - [acikkaynak_calisma-mekanlari (4)](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari)
   ([homepage](https://calisma-mekanlari.vercel.app/)) - Çalışma mekanlarını bu
