@@ -31,6 +31,10 @@ looking for my website? go to
   In order to make language translations more efficiently, I have a repo like
   this.
   https://raw.githack.com/ramazansancar/AndroidStringXmlTranslator/master/index.html
+- [btk-yer_saglayici (5)](https://github.com/ramazansancar/btk-yer_saglayici)
+  ([homepage](https://internet.btk.gov.tr/yer-saglayici-listesi)) - Software
+  that retrieves BTK 'Commercial Service Providers Hosting Provider' data and
+  checks its current status daily
 - [canli-kameralar (5)](https://github.com/ramazansancar/canli-kameralar) -
   Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [Dexofuzzy2 (5)](https://github.com/ramazansancar/Dexofuzzy2) - No description
@@ -38,10 +42,6 @@ looking for my website? go to
 - [acikkaynak_calisma-mekanlari (4)](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari)
   ([homepage](https://calisma-mekanlari.vercel.app/)) - Çalışma mekanlarını bu
   repository altında listeliyoruz
-- [btk-yer_saglayici (4)](https://github.com/ramazansancar/btk-yer_saglayici)
-  ([homepage](https://internet.btk.gov.tr/yer-saglayici-listesi)) - Software
-  that retrieves BTK 'Commercial Service Providers Hosting Provider' data and
-  checks its current status daily
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python (4)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python) -
   No description provided.
 - [netflix-viewing-activity (4)](https://github.com/ramazansancar/netflix-viewing-activity) -
