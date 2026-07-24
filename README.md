@@ -209,7 +209,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (254)
+## Forks (255)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -584,6 +584,8 @@ looking for my website? go to
   backend repository of Attendance Tracking System of Team Aces for SIH 2022.
 - [ayetkin_cross-check](https://github.com/ramazansancar/ayetkin_cross-check) -
   No description provided.
+- [ayyo42069_HTTPToolkit-Patcher-2026](https://github.com/ramazansancar/ayyo42069_HTTPToolkit-Patcher-2026)
+  ([homepage](https://krstoff.com/)) - HTTPToolkit Pro version patcher
 - [baka-gourd_I18NEverywhere.Localization](https://github.com/ramazansancar/baka-gourd_I18NEverywhere.Localization) -
   Cities Skylines 2 i18n Mod Localization Repo
 - [bitcookies_winrar-keygen](https://github.com/ramazansancar/bitcookies_winrar-keygen) -
