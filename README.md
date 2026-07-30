@@ -39,6 +39,7 @@ looking for my website? go to
   Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [Dexofuzzy2 (5)](https://github.com/ramazansancar/Dexofuzzy2) - No description
   provided.
+- [notes (5)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
 - [acikkaynak_calisma-mekanlari (4)](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari)
   ([homepage](https://calisma-mekanlari.vercel.app/)) - Çalışma mekanlarını bu
   repository altında listeliyoruz
@@ -46,7 +47,6 @@ looking for my website? go to
   No description provided.
 - [netflix-viewing-activity (4)](https://github.com/ramazansancar/netflix-viewing-activity) -
   :tv: Download your Netflix account viewing activity in JSON or CSV.
-- [notes (4)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
 - [radyo (4)](https://github.com/ramazansancar/radyo)
   ([homepage](https://www.ramazansancar.com.tr/radyo/)) - JSON ile Radyo Player
 - [spn2 (4)](https://github.com/ramazansancar/spn2)
