@@ -220,6 +220,9 @@ looking for my website? go to
 - [alicangunduz_tanismada-sohbet-tikanmasin](https://github.com/ramazansancar/alicangunduz_tanismada-sohbet-tikanmasin)
   ([homepage](https://flort-sorulari.vercel.app/)) - Tanışma sırasında sohbet
   duruyor soracak sorunuz kalmıyorsa sizin için geliştirdiğim çözüm.
+- [atasoyhus_Kartli-Yoklama-Aktaricisi](https://github.com/ramazansancar/atasoyhus_Kartli-Yoklama-Aktaricisi) -
+  Kartlı yoklama cihazı ile alınan yoklamaların birkaç tıklama ile öğrenci
+  otomasyonuna aktarımına olanak sağlayan basit bir Chrome eklentisi.
 - [awesome-vue](https://github.com/ramazansancar/awesome-vue) - 🎉 A curated
   list of awesome things related to Vue.js
 - [baris-akarsu-ile-anilar.github.io](https://github.com/ramazansancar/baris-akarsu-ile-anilar.github.io)
@@ -371,9 +374,6 @@ looking for my website? go to
   ([homepage](https://api.orhanaydogdu.com.tr/deprem/api-docs/)) - Kandilli
   rasathanesinin son dakika depremler ve tarihe göre deprem listesi için ara API
   (last minute earthquakes in turkey)
-- [Kartli-Yoklama-Aktaricisi](https://github.com/ramazansancar/Kartli-Yoklama-Aktaricisi) -
-  Kartlı yoklama cihazı ile alınan yoklamaların birkaç tıklama ile öğrenci
-  otomasyonuna aktarımına olanak sağlayan basit bir Chrome eklentisi.
 - [KodBilenBotTwitch](https://github.com/ramazansancar/KodBilenBotTwitch) - A
   Twitch bot for twitch.tv/kodbilen
 - [kodluyoruz-discord-register-bot](https://github.com/ramazansancar/kodluyoruz-discord-register-bot) -
