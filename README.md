@@ -66,6 +66,9 @@ looking for my website? go to
   ([homepage](https://spotify.ramazansancar.com.tr/)) - No description provided.
 - [various-viewing-activity (3)](https://github.com/ramazansancar/various-viewing-activity) -
   No description provided.
+- [webappalyzer-js (3)](https://github.com/ramazansancar/webappalyzer-js)
+  ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
+  of Wappalyzer before it went private
 - [acikkaynak_musahit-harita-frontend (2)](https://github.com/ramazansancar/acikkaynak_musahit-harita-frontend)
   ([homepage](https://musahit-harita-frontend-git-stage-acikyazilim.vercel.app)) -
   secim.gonullu.io frontend repo
@@ -135,9 +138,6 @@ looking for my website? go to
   useful payloads and bypass for Web Application Security and Pentest/CTF
 - [turkiye-haritasi-svg (2)](https://github.com/ramazansancar/turkiye-haritasi-svg) -
   No description provided.
-- [webappalyzer-js (2)](https://github.com/ramazansancar/webappalyzer-js)
-  ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
-  of Wappalyzer before it went private
 - [WebStats (2)](https://github.com/ramazansancar/WebStats) - WebStats Script v2
 - [zumrudu-anka (2)](https://github.com/ramazansancar/zumrudu-anka)
   ([homepage](https://zumrudu-anka.github.io/)) - 🐲 GitHub Profile Readme
