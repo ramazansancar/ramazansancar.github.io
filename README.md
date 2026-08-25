@@ -209,7 +209,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (255)
+## Forks (256)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -819,6 +819,8 @@ looking for my website? go to
   object tracking system in Turkey Live CCTV footages.
 - [semihkeskindev_captcha-solver](https://github.com/ramazansancar/semihkeskindev_captcha-solver) -
   captcha solver
+- [shyam-chauhan_swagger_finder](https://github.com/ramazansancar/shyam-chauhan_swagger_finder) -
+  To find swagger API doc using known paths on any endpoint.
 - [smeijer_leaflet-geosearch](https://github.com/ramazansancar/smeijer_leaflet-geosearch)
   ([homepage](https://smeijer.github.io/leaflet-geosearch/)) - A
   geocoding/address-lookup library supporting various api providers.
