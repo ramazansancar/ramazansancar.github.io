@@ -209,7 +209,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (256)
+## Forks (257)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -852,6 +852,9 @@ looking for my website? go to
   profile.
 - [videojs_video.js](https://github.com/ramazansancar/videojs_video.js)
   ([homepage](https://videojs.com)) - Video.js - open source HTML5 video player
+- [volodymyrsmirnov_MalwareMultiScan](https://github.com/ramazansancar/volodymyrsmirnov_MalwareMultiScan) -
+  Self-hosted VirusTotal / MetaDefender wannabe with API, demo UI and Scanners
+  running in Docker.
 - [vvampirius_hls-downloader](https://github.com/ramazansancar/vvampirius_hls-downloader) -
   Tool for download HLS (HTTP Live Streaming) video
 - [vvampirius_retracker](https://github.com/ramazansancar/vvampirius_retracker) -
