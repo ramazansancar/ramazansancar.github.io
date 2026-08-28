@@ -209,7 +209,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (257)
+## Forks (258)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -725,6 +725,8 @@ looking for my website? go to
   ([homepage](https://worldmonitor.app)) - Real-time global intelligence
   dashboard — AI-powered news aggregation, geopolitical monitoring, and
   infrastructure tracking in a unified situational awareness interface
+- [kprompt_kprompt](https://github.com/ramazansancar/kprompt_kprompt)
+  ([homepage](https://kprompt.ai)) - The AI Runtime for Kubernetes
 - [kticoder_Telegram-Diz](https://github.com/ramazansancar/kticoder_Telegram-Diz) -
   Bir kanal yada gruptaki herşeyi dızlayın.... 🐍
 - [LayeredStudio-whoiser](https://github.com/ramazansancar/LayeredStudio-whoiser) -
