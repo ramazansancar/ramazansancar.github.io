@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (81)
+## Projects (82)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -184,6 +184,9 @@ looking for my website? go to
 - [GitLatte_patr0n (0)](https://github.com/ramazansancar/GitLatte_patr0n)
   ([homepage](https://raw.githack.com/ramazansancar/GitLatte_patr0n/site/index.html)) -
   URL extraction from a text inside or url page
+- [google-search-console-api (0)](https://github.com/ramazansancar/google-search-console-api) -
+  Local HTTP API, CLI, and Model Context Protocol (MCP) server for Google Search
+  Console Search Analytics.
 - [grasspow-TelegramStickersDownloadBot (0)](https://github.com/ramazansancar/grasspow-TelegramStickersDownloadBot) -
   No description provided.
 - [mertcangokgoz_usom-adguard-mirror (0)](https://github.com/ramazansancar/mertcangokgoz_usom-adguard-mirror) -
@@ -209,7 +212,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (258)
+## Forks (259)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -823,6 +826,9 @@ looking for my website? go to
   captcha solver
 - [shyam-chauhan_swagger_finder](https://github.com/ramazansancar/shyam-chauhan_swagger_finder) -
   To find swagger API doc using known paths on any endpoint.
+- [sitemapper](https://github.com/ramazansancar/sitemapper)
+  ([homepage](https://www.npmjs.com/package/sitemapper)) - parses sitemaps for
+  Node.JS
 - [smeijer_leaflet-geosearch](https://github.com/ramazansancar/smeijer_leaflet-geosearch)
   ([homepage](https://smeijer.github.io/leaflet-geosearch/)) - A
   geocoding/address-lookup library supporting various api providers.
