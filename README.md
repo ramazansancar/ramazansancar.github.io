@@ -185,8 +185,7 @@ looking for my website? go to
   ([homepage](https://raw.githack.com/ramazansancar/GitLatte_patr0n/site/index.html)) -
   URL extraction from a text inside or url page
 - [google-search-console-api (0)](https://github.com/ramazansancar/google-search-console-api) -
-  Local HTTP API, CLI, and Model Context Protocol (MCP) server for Google Search
-  Console Search Analytics.
+  Google Search Console analytics over HTTP, CLI and MCP
 - [grasspow-TelegramStickersDownloadBot (0)](https://github.com/ramazansancar/grasspow-TelegramStickersDownloadBot) -
   No description provided.
 - [mertcangokgoz_usom-adguard-mirror (0)](https://github.com/ramazansancar/mertcangokgoz_usom-adguard-mirror) -
