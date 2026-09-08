@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (82)
+## Projects (83)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -210,6 +210,8 @@ looking for my website? go to
 - [Ulaknet_Stats (0)](https://github.com/ramazansancar/Ulaknet_Stats)
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
+- [volume-booster-tab-extension (0)](https://github.com/ramazansancar/volume-booster-tab-extension) -
+  No description provided.
 
 ## Forks (259)
 
