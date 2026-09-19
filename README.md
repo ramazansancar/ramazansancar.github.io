@@ -211,7 +211,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 - [volume-booster-tab-extension (0)](https://github.com/ramazansancar/volume-booster-tab-extension)
-  ([homepage](https://addons.mozilla.org/en-US/firefox/addon/volume-booster-tab/)) -
+  ([homepage](https://chromewebstore.google.com/detail/volume-booster-tab/icmlbabfmbcmpjekdinfhblfpngadhad)) -
   Boost any tab's volume up to 600% — with a limiter, equalizer and channel
   balance. Works in Chrome, Firefox, Edge, Opera, Brave, Vivaldi and Safari.
   Manifest V2 and V3 from one codebase.
