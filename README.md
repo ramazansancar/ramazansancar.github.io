@@ -20,15 +20,15 @@ looking for my website? go to
 - [Guvenli-Alisveris (8)](https://github.com/ramazansancar/Guvenli-Alisveris) -
   Güvenli Alışveriş yapmak için nelere dikkat etmelisiniz? Hangi sitelerden
   alışveriş yapılır? Nasıl Dolandırılmam? vs.
+- [IULecture (7)](https://github.com/ramazansancar/IULecture) - Istanbul
+  University AUZEF Computer Programming and Graphic Design Lecture Notes and
+  Information Repo.
 - [btk-yer_saglayici (6)](https://github.com/ramazansancar/btk-yer_saglayici)
   ([homepage](https://internet.btk.gov.tr/yer-saglayici-listesi)) - Software
   that retrieves BTK 'Commercial Service Providers Hosting Provider' data and
   checks its current status daily
 - [canli-kameralar (6)](https://github.com/ramazansancar/canli-kameralar) -
   Türkiye'de yer alan Canlı Kameraların M3U Listesi
-- [IULecture (6)](https://github.com/ramazansancar/IULecture) - Istanbul
-  University AUZEF Computer Programming and Graphic Design Lecture Notes and
-  Information Repo.
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (6)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
   ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
