@@ -27,8 +27,6 @@ looking for my website? go to
   ([homepage](https://internet.btk.gov.tr/yer-saglayici-listesi)) - Software
   that retrieves BTK 'Commercial Service Providers Hosting Provider' data and
   checks its current status daily
-- [canli-kameralar (6)](https://github.com/ramazansancar/canli-kameralar) -
-  Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (6)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
   ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
@@ -37,6 +35,8 @@ looking for my website? go to
   In order to make language translations more efficiently, I have a repo like
   this.
   https://raw.githack.com/ramazansancar/AndroidStringXmlTranslator/master/index.html
+- [canli-kameralar (5)](https://github.com/ramazansancar/canli-kameralar) -
+  Türkiye'de yer alan Canlı Kameraların M3U Listesi
 - [Dexofuzzy2 (5)](https://github.com/ramazansancar/Dexofuzzy2) - No description
   provided.
 - [notes (5)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
