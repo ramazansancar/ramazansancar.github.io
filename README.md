@@ -138,6 +138,11 @@ looking for my website? go to
   useful payloads and bypass for Web Application Security and Pentest/CTF
 - [turkiye-haritasi-svg (2)](https://github.com/ramazansancar/turkiye-haritasi-svg) -
   No description provided.
+- [volume-booster-tab-extension (2)](https://github.com/ramazansancar/volume-booster-tab-extension)
+  ([homepage](https://chromewebstore.google.com/detail/volume-booster-tab/icmlbabfmbcmpjekdinfhblfpngadhad)) -
+  Boost any tab's volume up to 600% — with a limiter, equalizer and channel
+  balance. Works in Chrome, Firefox, Edge, Opera, Brave, Vivaldi and Safari.
+  Manifest V2 and V3 from one codebase.
 - [WebStats (2)](https://github.com/ramazansancar/WebStats) - WebStats Script v2
 - [zumrudu-anka (2)](https://github.com/ramazansancar/zumrudu-anka)
   ([homepage](https://zumrudu-anka.github.io/)) - 🐲 GitHub Profile Readme
@@ -168,11 +173,6 @@ looking for my website? go to
   No description provided.
 - [vercel-test (1)](https://github.com/ramazansancar/vercel-test) - No
   description provided.
-- [volume-booster-tab-extension (1)](https://github.com/ramazansancar/volume-booster-tab-extension)
-  ([homepage](https://chromewebstore.google.com/detail/volume-booster-tab/icmlbabfmbcmpjekdinfhblfpngadhad)) -
-  Boost any tab's volume up to 600% — with a limiter, equalizer and channel
-  balance. Works in Chrome, Firefox, Edge, Opera, Brave, Vivaldi and Safari.
-  Manifest V2 and V3 from one codebase.
 - [website-homepage (1)](https://github.com/ramazansancar/website-homepage) - No
   description provided.
 - [yilmazev_protesto-api (1)](https://github.com/ramazansancar/yilmazev_protesto-api) -
