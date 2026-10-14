@@ -66,6 +66,11 @@ looking for my website? go to
   ([homepage](https://spotify.ramazansancar.com.tr/)) - No description provided.
 - [various-viewing-activity (3)](https://github.com/ramazansancar/various-viewing-activity) -
   No description provided.
+- [volume-booster-tab-extension (3)](https://github.com/ramazansancar/volume-booster-tab-extension)
+  ([homepage](https://chromewebstore.google.com/detail/volume-booster-tab/icmlbabfmbcmpjekdinfhblfpngadhad)) -
+  Boost any tab's volume up to 600% — with a limiter, equalizer and channel
+  balance. Works in Chrome, Firefox, Edge, Opera, Brave, Vivaldi and Safari.
+  Manifest V2 and V3 from one codebase.
 - [webappalyzer-js (3)](https://github.com/ramazansancar/webappalyzer-js)
   ([homepage](https://www.npmjs.com/package/webappalyzer-js)) - The last commit
   of Wappalyzer before it went private
@@ -138,11 +143,6 @@ looking for my website? go to
   useful payloads and bypass for Web Application Security and Pentest/CTF
 - [turkiye-haritasi-svg (2)](https://github.com/ramazansancar/turkiye-haritasi-svg) -
   No description provided.
-- [volume-booster-tab-extension (2)](https://github.com/ramazansancar/volume-booster-tab-extension)
-  ([homepage](https://chromewebstore.google.com/detail/volume-booster-tab/icmlbabfmbcmpjekdinfhblfpngadhad)) -
-  Boost any tab's volume up to 600% — with a limiter, equalizer and channel
-  balance. Works in Chrome, Firefox, Edge, Opera, Brave, Vivaldi and Safari.
-  Manifest V2 and V3 from one codebase.
 - [WebStats (2)](https://github.com/ramazansancar/WebStats) - WebStats Script v2
 - [zumrudu-anka (2)](https://github.com/ramazansancar/zumrudu-anka)
   ([homepage](https://zumrudu-anka.github.io/)) - 🐲 GitHub Profile Readme
