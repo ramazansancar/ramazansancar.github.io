@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (83)
+## Projects (84)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -204,6 +204,9 @@ looking for my website? go to
   Service Provider) Planning Operation List API for Turkey
 - [rtuk-lisans (0)](https://github.com/ramazansancar/rtuk-lisans) - No
   description provided.
+- [sequelize-orm-bench (0)](https://github.com/ramazansancar/sequelize-orm-bench)
+  ([homepage](https://github.com/sequelize/sequelize/issues/18551)) - A small
+  read-path benchmark for Sequelize.
 - [turkey-radar-map (0)](https://github.com/ramazansancar/turkey-radar-map)
   ([homepage](https://turkey-radar-map.vercel.app)) - Türkiye Radar Haritası
 - [TVGarden_iptv-blacklist (0)](https://github.com/ramazansancar/TVGarden_iptv-blacklist) -
@@ -216,7 +219,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (259)
+## Forks (260)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -829,6 +832,10 @@ looking for my website? go to
   object tracking system in Turkey Live CCTV footages.
 - [semihkeskindev_captcha-solver](https://github.com/ramazansancar/semihkeskindev_captcha-solver) -
   captcha solver
+- [sequelize_sequelize](https://github.com/ramazansancar/sequelize_sequelize)
+  ([homepage](https://sequelize.org/)) - Feature-rich ORM for modern Node.js and
+  TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL,
+  MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - [shyam-chauhan_swagger_finder](https://github.com/ramazansancar/shyam-chauhan_swagger_finder) -
   To find swagger API doc using known paths on any endpoint.
 - [sitemapper](https://github.com/ramazansancar/sitemapper)
