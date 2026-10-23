@@ -219,7 +219,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (260)
+## Forks (261)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -617,6 +617,9 @@ looking for my website? go to
   community-supported translations
 - [Citrinate_FreePackages](https://github.com/ramazansancar/Citrinate_FreePackages) -
   An ASF plugin for finding and redeeming free Steam games
+- [cnpm_unpkg-white-list](https://github.com/ramazansancar/cnpm_unpkg-white-list)
+  ([homepage](https://npmmirror.com)) - npmmirror.com 允许开启 unpkg
+  功能的白名单列表，避免被当作网盘滥用
 - [code-a-man_calisma-mekanlari-app](https://github.com/ramazansancar/code-a-man_calisma-mekanlari-app)
   ([homepage](https://calisma-mekanlari.vercel.app/)) - Türkiye Çalışma
   Mekanları
