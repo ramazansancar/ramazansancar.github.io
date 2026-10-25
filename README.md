@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (84)
+## Projects (85)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -195,6 +195,9 @@ looking for my website? go to
   No description provided.
 - [mertcangokgoz_usom-adguard-mirror (0)](https://github.com/ramazansancar/mertcangokgoz_usom-adguard-mirror) -
   Ulusal Siber Olaylara Müdahale Merkezi Malware URL AdGuard Format
+- [modernjs-ssg-404-repro (0)](https://github.com/ramazansancar/modernjs-ssg-404-repro) -
+  Modern.js 3.10 SSG: non-prerendered paths get the parent route's HTML, loader
+  404s are written as 200
 - [peertube-resarch-and-instance-adder (0)](https://github.com/ramazansancar/peertube-resarch-and-instance-adder)
   ([homepage](https://instances.joinpeertube.org/instances)) - Script that
   searches for Peertube instances and sends its findings to the instance
