@@ -222,7 +222,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (262)
+## Forks (263)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -890,6 +890,9 @@ looking for my website? go to
   Simple HTTP torrent tracker
 - [W4RH4WK_Debloat-Windows-10](https://github.com/ramazansancar/W4RH4WK_Debloat-Windows-10) -
   A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
+- [web-infra-dev_modern.js](https://github.com/ramazansancar/web-infra-dev_modern.js)
+  ([homepage](https://modernjs.dev/)) - A progressive web framework based on
+  React and Rsbuild.
 - [weepay_weepay-nodejs](https://github.com/ramazansancar/weepay_weepay-nodejs) -
   weepay Integration for nodejs
 
