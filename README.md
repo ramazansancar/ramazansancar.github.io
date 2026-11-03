@@ -222,7 +222,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (263)
+## Forks (264)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -839,6 +839,12 @@ looking for my website? go to
   Time2Work Mod for Cities Skylines 2
 - [samogod_mobese](https://github.com/ramazansancar/samogod_mobese) - Advanced
   object tracking system in Turkey Live CCTV footages.
+- [schematrix_HAS_Prepper_Disk](https://github.com/ramazansancar/schematrix_HAS_Prepper_Disk) -
+  Raspberry Pi 5 üzerinde çevrimdışı bilgi arşivi: Wikipedia, haritalar ve
+  hayatta kalma kaynakları kendi Wi-Fi ağı üzerinden sunulur, internet gerekmez.
+  Internet-in-a-Box tabanlıdır.Offline knowledge archive on Raspberry Pi 5:
+  Wikipedia, maps and survival resources served over its own Wi-Fi hotspot, no
+  internet required. Built on Internet-in-a-Box.
 - [semihkeskindev_captcha-solver](https://github.com/ramazansancar/semihkeskindev_captcha-solver) -
   captcha solver
 - [sequelize_sequelize](https://github.com/ramazansancar/sequelize_sequelize)
