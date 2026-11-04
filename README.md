@@ -222,7 +222,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (264)
+## Forks (265)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -879,6 +879,8 @@ looking for my website? go to
   Worker
 - [topaloglusamet_steam_pusula](https://github.com/ramazansancar/topaloglusamet_steam_pusula) -
   You can access the source codes of the add-on I prepared for Steam here.
+- [ttoygar_meclis_genel_kurul_tutanaklari](https://github.com/ramazansancar/ttoygar_meclis_genel_kurul_tutanaklari) -
+  No description provided.
 - [twitter_twemoji](https://github.com/ramazansancar/twitter_twemoji) - Emoji
   for everyone. https://twemoji.twitter.com/ -
   https://twemoji-cheatsheet.vercel.app/
