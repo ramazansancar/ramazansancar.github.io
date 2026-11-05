@@ -20,7 +20,7 @@ looking for my website? go to
 - [Guvenli-Alisveris (8)](https://github.com/ramazansancar/Guvenli-Alisveris) -
   Güvenli Alışveriş yapmak için nelere dikkat etmelisiniz? Hangi sitelerden
   alışveriş yapılır? Nasıl Dolandırılmam? vs.
-- [IULecture (7)](https://github.com/ramazansancar/IULecture) - Istanbul
+- [IULecture (8)](https://github.com/ramazansancar/IULecture) - Istanbul
   University AUZEF Computer Programming and Graphic Design Lecture Notes and
   Information Repo.
 - [btk-yer_saglayici (6)](https://github.com/ramazansancar/btk-yer_saglayici)
@@ -53,8 +53,6 @@ looking for my website? go to
   ([homepage](https://www.npmjs.com/package/spn2)) - The SPN2 JS Library
   provides an easy-to-use interface to interact with the Save Page Now 2 (SPN2)
   API, which is part of the Internet Archive's Wayback Machine service.
-- [UzunMuhalefet_Legal-IPTV (4)](https://github.com/ramazansancar/UzunMuhalefet_Legal-IPTV) -
-  No description provided.
 - [weatherApi (4)](https://github.com/ramazansancar/weatherApi)
   ([homepage](https://weatherapi.cyclic.app/)) - Open Weather API Backend
 - [.github (3)](https://github.com/ramazansancar/.github) - Sponsor button etc
@@ -64,6 +62,8 @@ looking for my website? go to
   No description provided.
 - [spotify-song-recommender (3)](https://github.com/ramazansancar/spotify-song-recommender)
   ([homepage](https://spotify.ramazansancar.com.tr/)) - No description provided.
+- [UzunMuhalefet_Legal-IPTV (3)](https://github.com/ramazansancar/UzunMuhalefet_Legal-IPTV) -
+  No description provided.
 - [various-viewing-activity (3)](https://github.com/ramazansancar/various-viewing-activity) -
   No description provided.
 - [volume-booster-tab-extension (3)](https://github.com/ramazansancar/volume-booster-tab-extension)
@@ -537,6 +537,8 @@ looking for my website? go to
   ([homepage](https://javascript.info)) - Modern JavaScript Tutorial in Turkish
 - [trackerslist](https://github.com/ramazansancar/trackerslist) - An updated
   list of public BitTorrent trackers
+- [ttoygar_meclis_genel_kurul_tutanaklari](https://github.com/ramazansancar/ttoygar_meclis_genel_kurul_tutanaklari) -
+  No description provided.
 - [TwitchDownloader](https://github.com/ramazansancar/TwitchDownloader) - Twitch
   VOD/Clip Downloader - Chat Download/Render/Replay
 - [unicorn-backend](https://github.com/ramazansancar/unicorn-backend)
@@ -879,8 +881,6 @@ looking for my website? go to
   Worker
 - [topaloglusamet_steam_pusula](https://github.com/ramazansancar/topaloglusamet_steam_pusula) -
   You can access the source codes of the add-on I prepared for Steam here.
-- [ttoygar_meclis_genel_kurul_tutanaklari](https://github.com/ramazansancar/ttoygar_meclis_genel_kurul_tutanaklari) -
-  No description provided.
 - [twitter_twemoji](https://github.com/ramazansancar/twitter_twemoji) - Emoji
   for everyone. https://twemoji.twitter.com/ -
   https://twemoji-cheatsheet.vercel.app/
