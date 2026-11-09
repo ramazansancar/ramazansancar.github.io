@@ -222,7 +222,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (265)
+## Forks (267)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -603,6 +603,9 @@ looking for my website? go to
   ([homepage](https://krstoff.com/)) - HTTPToolkit Pro version patcher
 - [baka-gourd_I18NEverywhere.Localization](https://github.com/ramazansancar/baka-gourd_I18NEverywhere.Localization) -
   Cities Skylines 2 i18n Mod Localization Repo
+- [BetterDiscord_BetterDiscord](https://github.com/ramazansancar/BetterDiscord_BetterDiscord)
+  ([homepage](https://betterdiscord.app)) - Better Discord enhances Discord
+  desktop app with new features.
 - [bitcookies_winrar-keygen](https://github.com/ramazansancar/bitcookies_winrar-keygen) -
   Principle of WinRAR key generation.
 - [block_goose](https://github.com/ramazansancar/block_goose)
@@ -887,6 +890,8 @@ looking for my website? go to
 - [v3_ramazansancar.com.tr](https://github.com/ramazansancar/v3_ramazansancar.com.tr)
   ([homepage](https://github.com/ozgursagiroglu)) - Config files for my GitHub
   profile.
+- [Vendicated_Vencord](https://github.com/ramazansancar/Vendicated_Vencord)
+  ([homepage](https://vencord.dev)) - The cutest Discord modification
 - [videojs_video.js](https://github.com/ramazansancar/videojs_video.js)
   ([homepage](https://videojs.com)) - Video.js - open source HTML5 video player
 - [volodymyrsmirnov_MalwareMultiScan](https://github.com/ramazansancar/volodymyrsmirnov_MalwareMultiScan) -
