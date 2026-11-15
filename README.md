@@ -222,7 +222,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (267)
+## Forks (268)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -701,6 +701,11 @@ looking for my website? go to
 - [jagrosh_GiveawayBot](https://github.com/ramazansancar/jagrosh_GiveawayBot)
   ([homepage](https://giveawaybot.party)) - 🎉 Hold giveaways quickly and easily
   on your Discord server!
+- [jankammerath_gophie](https://github.com/ramazansancar/jankammerath_gophie)
+  ([homepage](http://gophie.org)) - Gophie is a modern, graphical and
+  cross-platform client or browser for "The Internet Gopher" also known as the
+  Gopher protocol. Gophie supports browsing gopher pages, using search engines
+  such as Veronica-2, displaying images and downloading files.
 - [JavanXD_ya-pihole-list](https://github.com/ramazansancar/JavanXD_ya-pihole-list)
   ([homepage](https://javan.de/pihole-dns-blocklists-adlists-auto-updater/)) - A
   bunch of useful pi-hole adlists and a auto updater.
