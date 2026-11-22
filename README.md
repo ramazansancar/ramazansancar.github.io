@@ -7,7 +7,7 @@ catalogue info. if you want to learn how to set one up yourself, go to
 looking for my website? go to
 [https://ramazansancar.github.io](https://ramazansancar.github.io) instead.
 
-## Projects (85)
+## Projects (86)
 
 > **Note** Forks with more than 1 star are included in this list. This is
 > because a few forks are permenant forks of other projects.
@@ -30,6 +30,9 @@ looking for my website? go to
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go (6)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-go)
   ([homepage](https://kvkk.gov.tr/veri-ihlali-bildirimi/)) - No description
   provided.
+- [acikkaynak_calisma-mekanlari (5)](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari)
+  ([homepage](https://calisma-mekanlari.vercel.app/)) - Çalışma mekanlarını bu
+  repository altında listeliyoruz
 - [AndroidStringXmlTranslator (5)](https://github.com/ramazansancar/AndroidStringXmlTranslator)
   ([homepage](https://ramazansancar.github.io/AndroidStringXmlTranslator/index.html)) -
   In order to make language translations more efficiently, I have a repo like
@@ -40,9 +43,6 @@ looking for my website? go to
 - [Dexofuzzy2 (5)](https://github.com/ramazansancar/Dexofuzzy2) - No description
   provided.
 - [notes (5)](https://github.com/ramazansancar/notes) - Ramazan Sancar Notes
-- [acikkaynak_calisma-mekanlari (4)](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari)
-  ([homepage](https://calisma-mekanlari.vercel.app/)) - Çalışma mekanlarını bu
-  repository altında listeliyoruz
 - [Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python (4)](https://github.com/ramazansancar/Kvkk-Veri-Ihlal-Bildirimleri-Crawler-python) -
   No description provided.
 - [netflix-viewing-activity (4)](https://github.com/ramazansancar/netflix-viewing-activity) -
@@ -198,6 +198,8 @@ looking for my website? go to
 - [modernjs-ssg-404-repro (0)](https://github.com/ramazansancar/modernjs-ssg-404-repro) -
   Modern.js 3.10 SSG: non-prerendered paths get the parent route's HTML, loader
   404s are written as 200
+- [overlays-server (0)](https://github.com/ramazansancar/overlays-server) - No
+  description provided.
 - [peertube-resarch-and-instance-adder (0)](https://github.com/ramazansancar/peertube-resarch-and-instance-adder)
   ([homepage](https://instances.joinpeertube.org/instances)) - Script that
   searches for Peertube instances and sends its findings to the instance
@@ -222,7 +224,7 @@ looking for my website? go to
   ([homepage](https://ramazansancar.github.io/Ulaknet_Stats/)) - UlakNet Core
   Network Load Map
 
-## Forks (270)
+## Forks (271)
 
 > **Note** I have forked a lot of projects for OSS contributions.
 
@@ -272,6 +274,9 @@ looking for my website? go to
   and KV storage.
 - [chatty](https://github.com/ramazansancar/chatty) - Twitch Chat Client written
   in Java
+- [code-a-man_calisma-mekanlari-app](https://github.com/ramazansancar/code-a-man_calisma-mekanlari-app)
+  ([homepage](https://calisma-mekanlari.vercel.app/)) - Türkiye Çalışma
+  Mekanları
 - [coreui-vue](https://github.com/ramazansancar/coreui-vue)
   ([homepage](https://coreui.io/vue/docs/getting-started/introduction.html)) -
   Bootstrap 5 based Vue 3 components and directives. CoreUI for Vue.js replaces
@@ -387,6 +392,10 @@ looking for my website? go to
   ([homepage](https://api.orhanaydogdu.com.tr/deprem/api-docs/)) - Kandilli
   rasathanesinin son dakika depremler ve tarihe göre deprem listesi için ara API
   (last minute earthquakes in turkey)
+- [koala73_worldmonitor](https://github.com/ramazansancar/koala73_worldmonitor)
+  ([homepage](https://worldmonitor.app)) - Real-time global intelligence
+  dashboard — AI-powered news aggregation, geopolitical monitoring, and
+  infrastructure tracking in a unified situational awareness interface
 - [KodBilenBotTwitch](https://github.com/ramazansancar/KodBilenBotTwitch) - A
   Twitch bot for twitch.tv/kodbilen
 - [kodluyoruz-discord-register-bot](https://github.com/ramazansancar/kodluyoruz-discord-register-bot) -
@@ -628,9 +637,6 @@ looking for my website? go to
 - [cnpm_unpkg-white-list](https://github.com/ramazansancar/cnpm_unpkg-white-list)
   ([homepage](https://npmmirror.com)) - npmmirror.com 允许开启 unpkg
   功能的白名单列表，避免被当作网盘滥用
-- [code-a-man_calisma-mekanlari-app](https://github.com/ramazansancar/code-a-man_calisma-mekanlari-app)
-  ([homepage](https://calisma-mekanlari.vercel.app/)) - Türkiye Çalışma
-  Mekanları
 - [coding-to-music_gamedb](https://github.com/ramazansancar/coding-to-music_gamedb)
   ([homepage](https://globalsteam.online/)) - No description provided.
 - [danieliu_play-scraper](https://github.com/ramazansancar/danieliu_play-scraper) -
@@ -695,6 +701,9 @@ looking for my website? go to
   channels.
 - [iptv-org_iptv](https://github.com/ramazansancar/iptv-org_iptv) - Collection
   of publicly available IPTV channels from all over the world
+- [irlserver_obs-irl-source](https://github.com/ramazansancar/irlserver_obs-irl-source) -
+  OBS plugin for receiving live IRL streams over SRT, RTMP, RIST or any
+  FFmpeg-supported protocol.
 - [iv-org_documentation](https://github.com/ramazansancar/iv-org_documentation)
   ([homepage](https://docs.invidious.io)) - The official Invidious documentation
 - [iv-org_invidious](https://github.com/ramazansancar/iv-org_invidious)
@@ -752,10 +761,6 @@ looking for my website? go to
 - [kimusan_vncsnatch](https://github.com/ramazansancar/kimusan_vncsnatch)
   ([homepage](https://schulz.dk)) - A small tool to scan a range of IP addresses
   to find unprotected VNC servers and take a screenshot of them.
-- [koala73_worldmonitor](https://github.com/ramazansancar/koala73_worldmonitor)
-  ([homepage](https://worldmonitor.app)) - Real-time global intelligence
-  dashboard — AI-powered news aggregation, geopolitical monitoring, and
-  infrastructure tracking in a unified situational awareness interface
 - [kprompt_kprompt](https://github.com/ramazansancar/kprompt_kprompt)
   ([homepage](https://kprompt.ai)) - The AI Runtime for Kubernetes
 - [kticoder_Telegram-Diz](https://github.com/ramazansancar/kticoder_Telegram-Diz) -
